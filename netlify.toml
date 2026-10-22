@@ -24,7 +24,7 @@
     Cache-Control = "public, max-age=86400"
 
 [[redirects]]
-  from = "https://www.cronicanacional.net/*"
-  to = "https://cronicanacional.net/:splat"
+  from = "https://www.cronicanacional.org/*"
+  to = "https://cronicanacional.org/:splat"
   status = 301
   force = true

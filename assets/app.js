@@ -104,7 +104,7 @@ function pie(){
   '<p style="margin:16px 0 0;max-width:46ch">Noticias de México y el mundo, al momento. Nuestras notas resumen información verificada de otros medios y enlazan a sus fuentes originales.</p></div>'+
   '<div><h5>Secciones</h5><ul>'+ORDEN_NAV.slice(0,6).map(function(c){return '<li><a href="'+urlSec(c)+'">'+CATS[c]+'</a></li>'}).join("")+'</ul></div>'+
   '<div><h5>Más</h5><ul>'+ORDEN_NAV.slice(6).map(function(c){return '<li><a href="'+urlSec(c)+'">'+CATS[c]+'</a></li>'}).join("")+'<li><a href="/creditos.html">Créditos de imágenes</a></li><li><a href="/#suscribete">Boletín</a></li></ul></div>'+
-  '<div class="copy">© '+new Date().getFullYear()+' '+MARCA+' · cronicanacional.net. Fotografías de referencia de Wikimedia Commons con licencias libres; ver <a href="/creditos.html" style="text-decoration:underline">créditos</a>.</div></div></footer>';
+  '<div class="copy">© '+new Date().getFullYear()+' '+MARCA+' · cronicanacional.org. Fotografías de referencia de Wikimedia Commons con licencias libres; ver <a href="/creditos.html" style="text-decoration:underline">créditos</a>.</div></div></footer>';
 }
 
 /* ---------- páginas ---------- */

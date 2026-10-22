@@ -1,6 +1,6 @@
 # Publicación automática — instrucciones para la tarea programada
 
-Esta tarea corre dos veces al día (mañana y tarde, hora del centro de México) y publica en cronicanacional.net.
+Esta tarea corre dos veces al día (mañana y tarde, hora del centro de México) y publica en cronicanacional.org.
 
 ## 1. Buscar las noticias
 - Busca en la web las noticias más importantes de las últimas 12 horas en México y en el mundo.

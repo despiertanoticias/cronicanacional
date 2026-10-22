@@ -1,9 +1,9 @@
-# Crónica Nacional · cronicanacional.net
+# Crónica Nacional · cronicanacional.org
 
 Periodismo en tiempo real. Sitio estático (HTML, CSS y JavaScript sin dependencias) publicado en Netlify.
 
 ## Cómo publicar una nota (panel)
-1. Entra a **https://cronicanacional.net/admin**.
+1. Entra a **https://cronicanacional.org/admin**.
 2. Inicia sesión con GitHub.
 3. En **Notas → Nueva nota**, llena titular, sección, resumen y, si quieres, el texto completo y una foto.
 4. Pulsa **Guardar / Publicar**. En uno o dos minutos aparece en el sitio.
@@ -31,4 +31,4 @@ Una tarea programada puede agregar notas y actualizar los datos del día siguien
 
 ## Netlify
 - Comando de build: `node scripts/build.mjs` · Carpeta publicada: `.` (ya está en `netlify.toml`).
-- Dominio: `cronicanacional.net` (y `www.cronicanacional.net` redirige al dominio principal).
+- Dominio: `cronicanacional.org` (y `www.cronicanacional.org` redirige al dominio principal).

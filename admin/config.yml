@@ -8,8 +8,8 @@ backend:
     update: "Edita nota: {{slug}}"
     delete: "Borra nota: {{slug}}"
 
-site_url: https://cronicanacional.net
-display_url: https://cronicanacional.net
+site_url: https://cronicanacional.org
+display_url: https://cronicanacional.org
 logo_url: /assets/logo.webp
 locale: es
 
