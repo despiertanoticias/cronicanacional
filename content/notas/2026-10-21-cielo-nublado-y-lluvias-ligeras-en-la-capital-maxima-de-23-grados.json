@@ -1,0 +1,22 @@
+{
+  "titulo": "Cielo nublado y lluvias ligeras en la capital; máxima de 23 grados",
+  "seccion": "cdmx",
+  "fecha": "2026-10-21T18:13",
+  "resumen": "La Ciudad de México tuvo cielo nublado y lluvias ligeras aisladas este miércoles, con una temperatura máxima prevista de 23 °C. El frente frío 2 dejó de afectar al país en la madrugada, pero su masa de aire polar mantiene ambiente fresco a frío en zonas altas del centro, de acuerdo con el SMN.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Universal",
+      "enlace": "https://www.eluniversal.com.mx/metropoli/cdmx-tendra-cielo-nublado-y-lluvias-ligeras-para-este-miercoles-21-de-octubre-preven-una-temperatura-maxima-de-23-grados-celsius/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/10/21/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-miercoles-21-de-octubre-formacion-de-nuevo-frente-frio-activa-alerta-por-lluvias-y-bajas-temperaturas/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

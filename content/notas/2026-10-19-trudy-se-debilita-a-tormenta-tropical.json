@@ -1,0 +1,22 @@
+{
+  "titulo": "Trudy se debilita a tormenta tropical",
+  "seccion": "nacional",
+  "fecha": "2026-10-19T23:45",
+  "resumen": "Se espera que disminuyan las lluvias, el oleaje y las rachas de viento en la costa del Pacífico.",
+  "cuerpo": "",
+  "imagen_tema": "huracan",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/todo-en-uno-tv/noticias-de-hoy-19-de-octubre-de-2026-en-un-minuto-hasta-las-1300-horas/"
+    },
+    {
+      "medio": "El Informador",
+      "enlace": "https://www.informador.mx/mexico/huracan-trudy-se-debilita-pero-su-trayectoria-mantiene-en-alerta-maxima-a-las-costas-mexicanas-20261019-0036.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

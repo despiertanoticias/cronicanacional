@@ -1,0 +1,17 @@
+{
+  "fecha": "Miércoles 21 de octubre de 2026",
+  "actualizado": "19:30 h",
+  "dato": {
+    "cifra": "59.8%",
+    "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad.",
+    "detalle": "91 áreas urbanas de interés",
+    "fuente": "INEGI, ENSU, junio 2026",
+    "enlace": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/ensu/ENSU2026_07_CP.pdf"
+  },
+  "indicadores": [
+    { "nombre": "Dólar (cierre)", "valor": "$18.67", "detalle": "Desde 18.43 el día anterior", "tendencia": "sube", "nota": "2026-10-21-el-dolar-cierra-en-18-67-pesos-el-peso-pierde-mas-de-1" },
+    { "nombre": "Petróleo Brent", "valor": "≈ 110 USD", "detalle": "Máximo en cinco meses", "tendencia": "sube", "nota": "2026-10-20-el-crudo-brent-roza-los-110-dolares-su-nivel-mas-alto-en-cinco-meses" },
+    { "nombre": "Subsidio al diésel", "valor": "$2.35 / litro", "detalle": "Su nivel más alto", "tendencia": "sube", "nota": "2026-10-19-subsidio-al-diesel-llega-a-su-nivel-mas-alto-2-35-pesos-por-litro" },
+    { "nombre": "Producción manufacturera", "valor": "+4.1%", "detalle": "Agosto, anual", "tendencia": "sube", "nota": "2026-10-19-produccion-manufacturera-crece-4-1-en-agosto-su-mejor-nivel-en-tres-an" }
+  ]
+}

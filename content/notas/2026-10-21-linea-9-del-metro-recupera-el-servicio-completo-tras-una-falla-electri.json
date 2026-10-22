@@ -1,0 +1,22 @@
+{
+  "titulo": "Línea 9 del Metro recupera el servicio completo tras una falla eléctrica",
+  "seccion": "cdmx",
+  "fecha": "2026-10-21T18:16",
+  "resumen": "La Línea 9 operó de forma parcial, entre Tacubaya y Lázaro Cárdenas, por un intento de incendio cerca de la estación Velódromo que obligó a restablecer la energía. El servicio completo regresó tras concluir las reparaciones, aunque los trenes siguieron avanzando lento. La falla saturó al Metrobús en la zona de UPIICSA y Tepalcates.",
+  "cuerpo": "",
+  "imagen_tema": "metro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/10/21/que-esta-pasando-en-el-metro-y-metrobus-hoy-21-de-octubre/"
+    },
+    {
+      "medio": "El Universal",
+      "enlace": "https://www.eluniversal.com.mx/metropoli/restablecen-servicio-en-linea-9-del-metro-concluyen-reparaciones/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

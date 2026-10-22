@@ -1,0 +1,18 @@
+{
+  "titulo": "Clima en CDMX: mañana fría y lluvias aisladas por la tarde",
+  "seccion": "cdmx",
+  "fecha": "2026-10-20T23:17",
+  "resumen": "Protección Civil prevé una mínima de 14 °C y una máxima de 24 °C. En el Estado de México se esperan intervalos de chubascos.",
+  "cuerpo": "",
+  "imagen_tema": "centro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "TV Azteca",
+      "enlace": "https://www.tvazteca.com/aztecanoticias/clima-cdmx-y-edomex-hoy-20-de-octubre-llovera-y-que-temperaturas-habra"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

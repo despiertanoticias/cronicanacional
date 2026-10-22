@@ -1,0 +1,136 @@
+# Panel de publicación de Crónica Nacional
+backend:
+  name: github
+  repo: despiertanoticias/cronicanacional
+  branch: main
+  commit_messages:
+    create: "Nueva nota: {{slug}}"
+    update: "Edita nota: {{slug}}"
+    delete: "Borra nota: {{slug}}"
+
+site_url: https://cronicanacional.net
+display_url: https://cronicanacional.net
+logo_url: /assets/logo.webp
+locale: es
+
+media_folder: img/subidas
+public_folder: /img/subidas
+
+collections:
+  - name: notas
+    label: Notas
+    label_singular: Nota
+    folder: content/notas
+    extension: json
+    format: json
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{titulo}} · {{seccion}} · {{fecha}}"
+    sortable_fields: [fecha, titulo, seccion]
+    view_filters:
+      - { label: Destacadas, field: destacada, pattern: true }
+      - { label: Nacional, field: seccion, pattern: nacional }
+      - { label: Política, field: seccion, pattern: politica }
+      - { label: Seguridad, field: seccion, pattern: seguridad }
+      - { label: Estados, field: seccion, pattern: estados }
+    fields:
+      - { label: Titular, name: titulo, widget: string }
+      - label: Sección
+        name: seccion
+        widget: select
+        options:
+          - { label: Nacional, value: nacional }
+          - { label: Política, value: politica }
+          - { label: Economía, value: economia }
+          - { label: Seguridad, value: seguridad }
+          - { label: Estados, value: estados }
+          - { label: CDMX, value: cdmx }
+          - { label: Internacional, value: internacional }
+          - { label: Deportes, value: deportes }
+          - { label: Entretenimiento, value: entretenimiento }
+          - { label: Tecnología, value: tecnologia }
+      - { label: Fecha y hora, name: fecha, widget: datetime, format: "YYYY-MM-DDTHH:mm", date_format: "DD/MM/YYYY", time_format: "HH:mm" }
+      - { label: Resumen (aparece en la portada), name: resumen, widget: text }
+      - { label: Texto completo (opcional), name: cuerpo, widget: markdown, required: false, buttons: [bold, link, heading-two, bulleted-list], editor_components: [] }
+      - { label: Foto propia (opcional), name: imagen, widget: image, required: false }
+      - { label: Crédito de la foto, name: credito, widget: string, required: false }
+      - label: Foto de archivo (si no subes una propia)
+        name: imagen_tema
+        widget: select
+        required: false
+        options:
+          - { label: "Crónica Nacional: imagen de marca", value: "portada" }
+          - { label: "Crónica Nacional: Última hora", value: "ultimahora" }
+          - { label: "Estudio de Crónica Nacional", value: "estudio" }
+          - { label: "Palacio Nacional visto desde el Zócalo", value: "palacio" }
+          - { label: "Plaza de la Constitución, Ciudad de México", value: "zocalo" }
+          - { label: "Estación Chapultepec del Metro", value: "metro" }
+          - { label: "Tren del Metro de la Ciudad de México", value: "metro2" }
+          - { label: "Metrobús en Insurgentes Sur", value: "metrobus" }
+          - { label: "Calle del Centro Histórico", value: "centro" }
+          - { label: "Ángel de la Independencia", value: "angel" }
+          - { label: "Caseta de la autopista México-Cuernavaca", value: "carretera" }
+          - { label: "Sede del Senado de la República", value: "senado" }
+          - { label: "Persona con teléfono y computadora portátil", value: "tech" }
+          - { label: "Computadora portátil en un escritorio", value: "tech2" }
+          - { label: "Ofrendas de Día de Muertos en el Zócalo", value: "ofrenda" }
+          - { label: "Calle inundada", value: "lluvia" }
+          - { label: "Imagen satelital de un huracán en el Pacífico", value: "huracan" }
+          - { label: "Palacio de Gobierno de Chihuahua", value: "chihuahua" }
+          - { label: "Capitolio de Texas", value: "texas" }
+          - { label: "Centro Médico Nacional Siglo XXI", value: "imss" }
+          - { label: "Plataforma petrolera en el Golfo de México", value: "pemex" }
+          - { label: "Palacio de Gobierno de Jalisco", value: "jalisco" }
+          - { label: "Bolsa Mexicana de Valores", value: "bolsa" }
+          - { label: "Sede central del INE", value: "ine" }
+          - { label: "Ganado en Guanajuato", value: "ganado" }
+          - { label: "París de noche", value: "paris" }
+          - { label: "Capitolio de La Habana", value: "habana" }
+          - { label: "Plaza de San Pedro, Vaticano", value: "vaticano" }
+          - { label: "Palacio de Bellas Artes", value: "bellas" }
+          - { label: "Interior del Estadio Azteca", value: "estadio" }
+          - { label: "Biblioteca Central de la UNAM", value: "unam" }
+          - { label: "Campo del Tropicana Field", value: "beisbol" }
+          - { label: "Vista aérea del Autódromo Hermanos Rodríguez", value: "autodromo" }
+      - label: Fuentes
+        name: fuentes
+        widget: list
+        required: false
+        summary: "{{medio}}"
+        fields:
+          - { label: Medio, name: medio, widget: string }
+          - { label: Enlace, name: enlace, widget: string }
+      - { label: Destacada en portada, name: destacada, widget: boolean, default: false }
+      - { label: Autor, name: autor, widget: string, default: Redacción }
+      - { label: Guardar como borrador (no se publica), name: borrador, widget: boolean, default: false, required: false }
+
+  - name: dia
+    label: Datos del día
+    files:
+      - name: hoy
+        label: El dato e indicadores
+        file: content/hoy.json
+        format: json
+        fields:
+          - { label: Fecha (texto de la barra superior), name: fecha, widget: string }
+          - { label: Hora de actualización, name: actualizado, widget: string }
+          - label: El dato
+            name: dato
+            widget: object
+            fields:
+              - { label: Cifra (por ejemplo 59.8%), name: cifra, widget: string }
+              - { label: Texto, name: texto, widget: text }
+              - { label: Detalle (opcional), name: detalle, widget: string, required: false }
+              - { label: Fuente, name: fuente, widget: string }
+              - { label: Enlace de la fuente, name: enlace, widget: string, required: false }
+          - label: Indicadores
+            name: indicadores
+            widget: list
+            summary: "{{nombre}}: {{valor}}"
+            fields:
+              - { label: Nombre, name: nombre, widget: string }
+              - { label: Valor, name: valor, widget: string }
+              - { label: Detalle, name: detalle, widget: string, required: false }
+              - { label: Tendencia, name: tendencia, widget: select, options: [{label: Sube, value: sube}, {label: Baja, value: baja}, {label: Igual, value: igual}] }
+              - { label: Nota relacionada (nombre del archivo sin .json), name: nota, widget: string, required: false }
