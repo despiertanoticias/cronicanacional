@@ -1,6 +1,6 @@
 {
-  "fecha": "Miércoles 21 de octubre de 2026",
-  "actualizado": "19:30 h",
+  "fecha": "Jueves 22 de octubre de 2026",
+  "actualizado": "06:45 h",
   "dato": {
     "cifra": "59.8%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad.",
@@ -9,9 +9,33 @@
     "enlace": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/ensu/ENSU2026_07_CP.pdf"
   },
   "indicadores": [
-    { "nombre": "Dólar (cierre)", "valor": "$18.67", "detalle": "Desde 18.43 el día anterior", "tendencia": "sube", "nota": "2026-10-21-el-dolar-cierra-en-18-67-pesos-el-peso-pierde-mas-de-1" },
-    { "nombre": "Petróleo Brent", "valor": "≈ 110 USD", "detalle": "Máximo en cinco meses", "tendencia": "sube", "nota": "2026-10-20-el-crudo-brent-roza-los-110-dolares-su-nivel-mas-alto-en-cinco-meses" },
-    { "nombre": "Subsidio al diésel", "valor": "$2.35 / litro", "detalle": "Su nivel más alto", "tendencia": "sube", "nota": "2026-10-19-subsidio-al-diesel-llega-a-su-nivel-mas-alto-2-35-pesos-por-litro" },
-    { "nombre": "Producción manufacturera", "valor": "+4.1%", "detalle": "Agosto, anual", "tendencia": "sube", "nota": "2026-10-19-produccion-manufacturera-crece-4-1-en-agosto-su-mejor-nivel-en-tres-an" }
+    {
+      "nombre": "Dólar (cierre)",
+      "valor": "$18.68",
+      "detalle": "Apertura del jueves en 18.74",
+      "tendencia": "sube",
+      "nota": "2026-10-22-el-dolar-abre-en-18-74-pesos-y-suma-tres-dias-al-alza"
+    },
+    {
+      "nombre": "Petróleo Brent",
+      "valor": "108.82 USD",
+      "detalle": "Cierre del 21 de octubre, +0.03%",
+      "tendencia": "igual",
+      "nota": "2026-10-22-la-bolsa-mexicana-sube-1-43-y-cierra-en-70-249-puntos"
+    },
+    {
+      "nombre": "S&P/BMV IPC",
+      "valor": "70,249.54",
+      "detalle": "+1.43% el miércoles",
+      "tendencia": "sube",
+      "nota": "2026-10-22-la-bolsa-mexicana-sube-1-43-y-cierra-en-70-249-puntos"
+    },
+    {
+      "nombre": "Ingresos por servicios",
+      "valor": "+0.3%",
+      "detalle": "Agosto, mensual; en julio fue +0.9%",
+      "tendencia": "sube",
+      "nota": "2026-10-22-ingresos-del-sector-servicios-crecen-0-3-en-agosto"
+    }
   ]
 }
