@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 22 de octubre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "59.8%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.68",
-      "detalle": "Apertura del jueves en 18.74",
+      "valor": "$18.71",
+      "detalle": "Jueves; cierre previo 18.67",
       "tendencia": "sube",
-      "nota": "2026-10-22-el-dolar-abre-en-18-74-pesos-y-suma-tres-dias-al-alza"
+      "nota": "2026-10-22-el-peso-cierra-en-18-71-por-dolar-y-va-a-una-semana-de-perdidas"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "108.82 USD",
-      "detalle": "Cierre del 21 de octubre, +0.03%",
-      "tendencia": "igual",
-      "nota": "2026-10-22-la-bolsa-mexicana-sube-1-43-y-cierra-en-70-249-puntos"
+      "valor": "113.17 USD",
+      "detalle": "+4%, máximo desde mayo",
+      "tendencia": "sube",
+      "nota": "2026-10-22-el-brent-sube-4-y-llega-a-113-dolares-su-nivel-mas-alto-desde-mayo"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,249.54",
-      "detalle": "+1.43% el miércoles",
-      "tendencia": "sube",
-      "nota": "2026-10-22-la-bolsa-mexicana-sube-1-43-y-cierra-en-70-249-puntos"
+      "valor": "69,889.73",
+      "detalle": "-0.51% el jueves",
+      "tendencia": "baja",
+      "nota": "2026-10-22-la-bolsa-mexicana-baja-0-51-y-corta-cinco-dias-de-ganancias"
     },
     {
-      "nombre": "Ingresos por servicios",
-      "valor": "+0.3%",
-      "detalle": "Agosto, mensual; en julio fue +0.9%",
+      "nombre": "Inflación anual",
+      "valor": "3.62%",
+      "detalle": "1a quincena de octubre; subyacente 3.78%",
       "tendencia": "sube",
-      "nota": "2026-10-22-ingresos-del-sector-servicios-crecen-0-3-en-agosto"
+      "nota": "2026-10-22-la-inflacion-sube-a-3-62-en-la-primera-quincena-de-octubre"
     }
   ]
 }
