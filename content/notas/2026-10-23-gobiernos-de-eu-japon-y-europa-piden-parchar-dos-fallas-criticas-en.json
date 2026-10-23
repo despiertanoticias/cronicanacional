@@ -1,0 +1,18 @@
+{
+  "titulo": "Gobiernos de EU, Japón y Europa piden parchar dos fallas críticas en PHP",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-23T06:31",
+  "resumen": "La Agencia de Seguridad Nacional de Estados Unidos advirtió que dos vulnerabilidades en PHP, lenguaje usado por millones de sitios web, permitirían ejecutar código a distancia sin autenticarse y acceder a archivos o bases de datos. Pidió prepararse para instalar la actualización o desconectar temporalmente los sistemas; Japón, Alemania y el CERT-EU emitieron alertas similares y Países Bajos retiró de línea algunos sitios oficiales por precaución.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "ABC Color (EFE)",
+      "enlace": "https://www.abc.com.py/tecnologia/2026/10/21/eeuu-tambien-alerta-de-fallos-criticos-de-seguridad-en-php-un-codigo-usado-en-millones-de-webs/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
