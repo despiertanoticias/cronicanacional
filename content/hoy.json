@@ -1,34 +1,34 @@
 {
   "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:35 h",
   "dato": {
-    "cifra": "59.8%",
-    "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad.",
-    "detalle": "91 áreas urbanas de interés",
-    "fuente": "INEGI, ENSU, junio 2026",
-    "enlace": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/ensu/ENSU2026_07_CP.pdf"
+    "cifra": "58.1%",
+    "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
+    "detalle": "91 áreas urbanas; 63.0% un año antes",
+    "fuente": "INEGI, ENSU, septiembre 2026",
+    "enlace": "https://www.inegi.org.mx/programas/ensu/"
   },
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.71",
-      "detalle": "Cierre del jueves; abre el viernes en 18.79",
-      "tendencia": "sube",
-      "nota": "2026-10-22-el-peso-cierra-en-18-71-por-dolar-y-va-a-una-semana-de-perdidas"
+      "valor": "$18.66",
+      "detalle": "Cierre Banxico del viernes; -0.28% en el día, +0.84% en la semana",
+      "tendencia": "baja",
+      "nota": "2026-10-23-el-peso-cierra-en-18-66-por-dolar-pero-pierde-0-84-en-la-semana"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "114.94 USD",
-      "detalle": "+1.6% el viernes; cierre previo 113.17",
+      "valor": "116.72 USD",
+      "detalle": "+3.14% el viernes; WTI en 103.27",
       "tendencia": "sube",
-      "nota": "2026-10-23-el-brent-sigue-al-alza-y-ronda-los-115-dolares-por-barril"
+      "nota": "2026-10-23-el-brent-cierra-en-116-72-dolares-y-suma-cinco-dias-de-alzas"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,889.73",
-      "detalle": "-0.51% el jueves",
-      "tendencia": "baja",
-      "nota": "2026-10-22-la-bolsa-mexicana-baja-0-51-y-corta-cinco-dias-de-ganancias"
+      "valor": "69,879.62",
+      "detalle": "-0.01% el viernes",
+      "tendencia": "igual",
+      "nota": "2026-10-23-la-bolsa-mexicana-cierra-casi-sin-cambios-dow-jones-cae-1-23"
     },
     {
       "nombre": "Inflación anual",
