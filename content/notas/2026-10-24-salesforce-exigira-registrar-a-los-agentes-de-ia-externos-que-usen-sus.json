@@ -1,0 +1,18 @@
+{
+  "titulo": "Salesforce exigirá registrar a los agentes de IA externos que usen sus sistemas",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-24T18:34",
+  "resumen": "Salesforce prevé obligar a sus clientes a registrar los agentes de inteligencia artificial externos antes de que accedan a sus API o servidores MCP, mediante un sistema de identidad propio llamado Agentic Identity que llegaría en noviembre. Los clientes tendrían tres meses para el registro a partir del aviso, y la empresa evalúa cobrar algunas interacciones con Flex Credits, aunque no ha definido tarifas.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "DiarioBitcoin",
+      "enlace": "https://www.diariobitcoin.com/tecnologia/salesforce-prepara-registro-para-agentes-externos-de-ia-y-evalua-cobros-por-su-uso/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
