@@ -1,0 +1,22 @@
+{
+  "titulo": "OpenAI llevará sus modelos a Google Cloud, rival de su socio Microsoft",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-26T06:40",
+  "resumen": "OpenAI y Google Cloud anunciaron que los modelos GPT-6 Astra, GPT-6.1 Sol y GPT-6 Luna estarán en el catálogo Model Garden, con cobro a través del Marketplace de Google. Por ahora hay acceso anticipado para un grupo reducido de empresas y la disponibilidad general se prevé en las próximas semanas. Microsoft sigue siendo el principal socio de OpenAI en infraestructura de nube.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/tecno/2026/10/24/openai-llevara-sus-modelos-de-ia-a-google-cloud-su-rival-en-la-nube/"
+    },
+    {
+      "medio": "Expansión",
+      "enlace": "https://expansion.mx/tecnologia/2026/10/21/openai-utilizara-la-nube-de-google"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
