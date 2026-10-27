@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 26 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:35 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,10 +11,10 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.66",
-      "detalle": "Cierre Banxico del viernes; -0.28% en el día, +0.84% en la semana",
+      "valor": "$18.55",
+      "detalle": "Cierre del lunes; -0.63% en el día, +0.69% en la semana",
       "tendencia": "baja",
-      "nota": "2026-10-23-el-peso-cierra-en-18-66-por-dolar-pero-pierde-0-84-en-la-semana"
+      "nota": "2026-10-26-el-peso-cierra-en-18-55-por-dolar-y-suma-dos-dias-de-ganancias"
     },
     {
       "nombre": "Petróleo Brent",
@@ -25,10 +25,10 @@
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,879.62",
-      "detalle": "-0.01% el viernes",
-      "tendencia": "igual",
-      "nota": "2026-10-23-la-bolsa-mexicana-cierra-casi-sin-cambios-dow-jones-cae-1-23"
+      "valor": "69,470.99",
+      "detalle": "-0.58% el lunes; tercera caída seguida",
+      "tendencia": "baja",
+      "nota": "2026-10-26-la-bolsa-mexicana-cae-0-58-y-suma-tres-sesiones-a-la-baja-aeromexico-p"
     },
     {
       "nombre": "Inflación anual",
