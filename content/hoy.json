@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "06:48 h",
+  "actualizado": "18:49 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.55",
-      "detalle": "Cierre del lunes; -0.63% en el día, +0.69% en la semana",
-      "tendencia": "baja",
-      "nota": "2026-10-26-el-peso-cierra-en-18-55-por-dolar-y-suma-dos-dias-de-ganancias"
+      "valor": "$18.68",
+      "detalle": "Cierre del martes; 18.57 el día previo, +1.35% en la semana",
+      "tendencia": "sube",
+      "nota": "2026-10-27-el-dolar-cierra-en-18-68-pesos-y-sube-1-35-en-la-semana"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "115.81 USD",
-      "detalle": "Cierre del lunes, -0.78%; WTI en 101.76 (-1.46%)",
+      "valor": "113.88 USD",
+      "detalle": "Cierre del martes, -1.67%",
       "tendencia": "baja",
-      "nota": "2026-10-27-el-brent-cierra-en-115-81-dolares-y-el-wti-cae-1-46"
+      "nota": "2026-10-27-el-brent-cae-1-67-y-cierra-en-113-88-dolares-por-optimismo-diplomatico"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,470.99",
-      "detalle": "-0.58% el lunes; tercera caída seguida",
-      "tendencia": "baja",
-      "nota": "2026-10-26-la-bolsa-mexicana-cae-0-58-y-suma-tres-sesiones-a-la-baja-aeromexico-p"
+      "valor": "69,711.87",
+      "detalle": "+0.35% el martes; corta tres caídas seguidas",
+      "tendencia": "sube",
+      "nota": "2026-10-27-la-bolsa-mexicana-sube-0-35-y-corta-una-racha-de-tres-caidas"
     },
     {
       "nombre": "Inflación anual",
