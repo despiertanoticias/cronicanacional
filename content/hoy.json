@@ -1,6 +1,6 @@
 {
-  "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Jueves 29 de octubre de 2026",
+  "actualizado": "07:10 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -18,10 +18,10 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "115.32 USD",
-      "detalle": "Cierre del miércoles, +1.26%",
-      "tendencia": "sube",
-      "nota": "2026-10-28-el-brent-sube-1-26-y-vuelve-a-superar-los-115-dolares-por-temor-a-una"
+      "valor": "114.50 USD",
+      "detalle": "Cotización del jueves en la mañana; 115.32 al cierre previo",
+      "tendencia": "baja",
+      "nota": "2026-10-29-el-brent-baja-a-114-50-dolares-por-contactos-diplomaticos-en-medio-ori"
     },
     {
       "nombre": "S&P/BMV IPC",
