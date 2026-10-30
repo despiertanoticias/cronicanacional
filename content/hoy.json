@@ -1,6 +1,6 @@
 {
-  "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "19:05 h",
+  "fecha": "Viernes 30 de octubre de 2026",
+  "actualizado": "07:25 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -31,11 +31,11 @@
       "nota": "2026-10-29-la-bolsa-mexicana-sube-0-87-a-69-787-puntos-jose-cuervo-se-desploma-ma"
     },
     {
-      "nombre": "Tasa de la Fed",
-      "valor": "3.75%–4.00%",
-      "detalle": "Sin cambios; votación 10 a 2",
-      "tendencia": "igual",
-      "nota": "2026-10-28-la-fed-mantiene-su-tasa-entre-3-75-y-4-dos-miembros-pedian-subirla"
+      "nombre": "PIB México (3T)",
+      "valor": "+3.2% anual",
+      "detalle": "Estimación del tercer trimestre; se esperaba 2.5%",
+      "tendencia": "sube",
+      "nota": "2026-10-30-la-economia-mexicana-crece-3-2-anual-en-el-tercer-trimestre-por-encima"
     }
   ]
 }

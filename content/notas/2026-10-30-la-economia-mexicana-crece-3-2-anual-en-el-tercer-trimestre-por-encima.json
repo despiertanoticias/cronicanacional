@@ -1,0 +1,22 @@
+{
+  "titulo": "La economía mexicana crece 3.2% anual en el tercer trimestre, por encima del 2.5% que se esperaba",
+  "seccion": "economia",
+  "fecha": "2026-10-30T07:20",
+  "resumen": "La economía de México creció 3.2% a tasa anual en el tercer trimestre de 2026, de acuerdo con la estimación del PIB publicada este viernes y reportada por FXStreet. El dato supera el 2.5% que anticipaban los analistas. La cifra confirma lo que adelantaba el Indicador Oportuno de la Actividad Económica del Inegi, que estimaba un avance superior a 3% anual entre julio y septiembre.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "FXStreet",
+      "enlace": "https://www.fxstreet.es/news/mexico-la-economia-sorprende-con-un-crecimiento-del-32-anual-en-el-tercer-trimestre-frente-al-25-esperado-202610301210"
+    },
+    {
+      "medio": "Almomento",
+      "enlace": "https://almomento.mx/economia-de-mexico-crecio-mas-de-3-en-el-tercer-trimestre/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
