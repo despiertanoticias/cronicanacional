@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "07:10 h",
+  "actualizado": "19:05 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.64",
-      "detalle": "Cierre del miércoles; 18.68 el día previo, -0.21%",
-      "tendencia": "baja",
-      "nota": "2026-10-28-el-peso-cierra-en-18-64-por-dolar-y-gana-0-21-tras-la-decision-de-la-f"
+      "valor": "$18.83",
+      "detalle": "Cierre del jueves; 18.64 el día previo, +1.02% el dólar",
+      "tendencia": "sube",
+      "nota": "2026-10-29-el-peso-pierde-1-y-cierra-en-18-83-por-dolar-un-dia-despues-de-la-deci"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "114.50 USD",
-      "detalle": "Cotización del jueves en la mañana; 115.32 al cierre previo",
+      "valor": "113.80 USD",
+      "detalle": "Cotización del jueves; -1.1% en la sesión",
       "tendencia": "baja",
-      "nota": "2026-10-29-el-brent-baja-a-114-50-dolares-por-contactos-diplomaticos-en-medio-ori"
+      "nota": "2026-10-29-el-brent-cede-a-113-80-dolares-ante-senales-de-dialogo-entre-eu-e-iran"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,182.39",
-      "detalle": "-0.76% el miércoles; +7.74% en octubre",
-      "tendencia": "baja",
-      "nota": "2026-10-28-la-bolsa-mexicana-cae-0-76-y-cierra-en-69-182-puntos-en-contra-de-los"
+      "valor": "69,787.41",
+      "detalle": "+0.87% el jueves; +8.68% en octubre",
+      "tendencia": "sube",
+      "nota": "2026-10-29-la-bolsa-mexicana-sube-0-87-a-69-787-puntos-jose-cuervo-se-desploma-ma"
     },
     {
       "nombre": "Tasa de la Fed",
