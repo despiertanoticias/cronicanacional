@@ -1,0 +1,18 @@
+{
+  "titulo": "OpenAI respaldará una señal en robots.txt para que los sitios decidan si su contenido entrena IA",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-31T18:41",
+  "resumen": "La empresa anunció que respetará una señal común en el archivo robots.txt con la que medios y otros sitios podrán indicar si aceptan que su contenido se use para entrenar modelos. La iniciativa está ligada al grupo de trabajo de preferencias de IA de la IETF; su aplicación llegará en los próximos meses y no sustituye los controles actuales.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Noticias La Paz",
+      "enlace": "https://noticiaslapaz.news/2026/10/31/openai-senal-robots-txt-preferencias-entrenamiento-ia-editores-2026/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
