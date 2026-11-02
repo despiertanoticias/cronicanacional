@@ -1,6 +1,6 @@
 {
-  "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Lunes 2 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.80",
-      "detalle": "Cierre del viernes 30 (Banxico); -4% el peso en octubre, 8ª semana de pérdidas",
-      "tendencia": "baja",
-      "nota": "2026-11-01-el-peso-empieza-noviembre-con-la-decision-de-banxico-y-las-elecciones"
+      "detalle": "Cierre del viernes 30 (Banxico); el lunes abrió en 18.74 (-0.26%)",
+      "tendencia": "sube",
+      "nota": "2026-11-02-el-peso-abre-la-semana-con-ligera-ganancia-el-dolar-arranca-en-18-74-u"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "117.64 USD",
-      "detalle": "Cierre del viernes; +2.4% en la sesión, +13% en octubre",
-      "tendencia": "sube",
-      "nota": "2026-10-30-el-brent-sube-2-4-a-117-64-dolares-y-cierra-octubre-con-alza-superior"
+      "valor": "110.23 USD",
+      "detalle": "Lunes, 8:00 h de Madrid; -2.82% por las pláticas EU-Irán",
+      "tendencia": "baja",
+      "nota": "2026-11-02-el-brent-cae-casi-3-y-baja-a-110-dolares-por-las-platicas-entre-eu-e-i"
     },
     {
       "nombre": "S&P/BMV IPC",
