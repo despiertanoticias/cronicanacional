@@ -1,6 +1,6 @@
 {
-  "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Martes 3 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -12,14 +12,14 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.57",
-      "detalle": "Lunes 2 de noviembre; -1.19% frente a 18.79 (Dow Jones)",
+      "detalle": "Cierre del lunes 2 de noviembre; -1.19% (Dow Jones). FIX de hoy: 18.7962",
       "tendencia": "baja",
       "nota": "2026-11-02-el-peso-cierra-en-18-57-por-dolar-y-gana-1-19-en-una-jornada-de-feriad"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "104.77 USD",
-      "detalle": "Lunes; -7.64% por señales de diálogo EU-Irán (AFP)",
+      "valor": "104.11 USD",
+      "detalle": "Cierre del lunes; -6.68% por las pláticas Irán-Qatar sobre Ormuz (Reuters/Investing.com)",
       "tendencia": "baja",
       "nota": "2026-11-02-el-petroleo-se-desploma-mas-de-7-el-brent-baja-a-104-77-dolares-por-se"
     },
