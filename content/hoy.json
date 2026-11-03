@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:40 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,22 +11,22 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.80",
-      "detalle": "Cierre del viernes 30 (Banxico); el lunes abrió en 18.74 (-0.26%)",
-      "tendencia": "sube",
-      "nota": "2026-11-02-el-peso-abre-la-semana-con-ligera-ganancia-el-dolar-arranca-en-18-74-u"
+      "valor": "$18.57",
+      "detalle": "Lunes 2 de noviembre; -1.19% frente a 18.79 (Dow Jones)",
+      "tendencia": "baja",
+      "nota": "2026-11-02-el-peso-cierra-en-18-57-por-dolar-y-gana-1-19-en-una-jornada-de-feriad"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "110.23 USD",
-      "detalle": "Lunes, 8:00 h de Madrid; -2.82% por las pláticas EU-Irán",
+      "valor": "104.77 USD",
+      "detalle": "Lunes; -7.64% por señales de diálogo EU-Irán (AFP)",
       "tendencia": "baja",
-      "nota": "2026-11-02-el-brent-cae-casi-3-y-baja-a-110-dolares-por-las-platicas-entre-eu-e-i"
+      "nota": "2026-11-02-el-petroleo-se-desploma-mas-de-7-el-brent-baja-a-104-77-dolares-por-se"
     },
     {
       "nombre": "S&P/BMV IPC",
       "valor": "69,779.20",
-      "detalle": "-0.01% el viernes",
+      "detalle": "-0.01% el viernes; la BMV no operó el lunes por Día de Muertos",
       "tendencia": "igual",
       "nota": "2026-10-30-la-bolsa-mexicana-cierra-practicamente-sin-cambios-en-69-779-puntos"
     },
