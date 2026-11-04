@@ -1,3 +1,8 @@
 node_modules/
 .DS_Store
 .netlify
+
+# Generados en cada build por scripts/build.mjs
+/notas/
+/sitemap.xml
+/_redirects

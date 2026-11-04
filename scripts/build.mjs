@@ -2,6 +2,7 @@
 // en assets/datos.js, que lee el sitio. Netlify lo ejecuta en cada publicación.
 import fs from "node:fs";
 import path from "node:path";
+import { asignarSlugs, generar } from "./paginas.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -31,7 +32,9 @@ for (const archivo of fs.readdirSync(CARPETA).filter(f => f.endsWith(".json"))) 
     cred: o.credito || "",
     src: (o.fuentes || []).filter(s => s && s.enlace).map(s => [s.medio || s.enlace, s.enlace]),
     dest: !!o.destacada,
-    a: o.autor || "Redacción"
+    a: o.autor || "Redacción",
+    p: !!o.patrocinado,
+    m: String(o.modificado || "").replace(" ", "T").slice(0, 16)
   });
 }
 if (errores.length) {
@@ -39,9 +42,11 @@ if (errores.length) {
   process.exit(1);
 }
 notas.sort((a, b) => (a.f < b.f ? 1 : a.f > b.f ? -1 : 0));
+asignarSlugs(notas);
+const paginas = generar(RAIZ, notas);
 const hoy = JSON.parse(fs.readFileSync(path.join(RAIZ, "content/hoy.json"), "utf8"));
 const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.NOTAS=" + JSON.stringify(notas.slice(0, MAX_NOTAS)) + ";\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
-console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas publicadas.`);
+console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas en datos.js, ${paginas} páginas en /notas/, sitemap.xml y _redirects.`);

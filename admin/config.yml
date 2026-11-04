@@ -36,6 +36,7 @@ collections:
       - { label: Estados, field: seccion, pattern: estados }
     fields:
       - { label: Titular, name: titulo, widget: string }
+      - { label: Contenido patrocinado, name: patrocinado, widget: boolean, required: false, default: false, hint: "Muestra la etiqueta «Contenido patrocinado» y marca los enlaces con rel=sponsored" }
       - label: Sección
         name: seccion
         widget: select

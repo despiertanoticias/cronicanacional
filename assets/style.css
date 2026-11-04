@@ -247,3 +247,7 @@ a.ind:hover .ind-n{color:var(--acento)}
 .nota-art .texto h2{font-size:24px;margin:24px 0 10px}
 .nota-art .texto a{text-decoration:underline;text-underline-offset:3px}
 .compartir .btn{font-size:12px;padding:10px 14px}
+/* Etiqueta de contenido patrocinado y cabecera de las páginas estáticas */
+.patrocinado{display:inline-block;margin:18px 0 0;padding:4px 10px;border-radius:4px;background:#fff4d6;color:#6b4a00;font-family:var(--ui);font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.cab-estatica{padding:14px 0;border-bottom:1px solid rgba(0,0,0,.08)}
+.cab-estatica .logo img{height:44px;width:auto}

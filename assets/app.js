@@ -16,7 +16,7 @@ function porId(id){for(var i=0;i<NOTAS.length;i++)if(NOTAS[i].id===id)return NOT
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function fecha(d){if(!d)return "";var p=d.split("-");return parseInt(p[2],10)+" de "+MESES[parseInt(p[1],10)-1]+" de "+p[0]}
 function hora(n){return (n.f||"").slice(11,16)}
-function url(n){return "/nota.html?id="+encodeURIComponent(n.id)}
+function url(n){return n.u?"/notas/"+n.u+"/":"/nota.html?id="+encodeURIComponent(n.id)}
 function urlSec(c){return "/seccion.html?s="+c}
 function param(k){try{return new URLSearchParams(location.search).get(k)}catch(e){return null}}
 function local(f){return /^(\/?img\/|https?:)/.test(f)}
@@ -39,10 +39,11 @@ function fila(n){
     '<a class="cat" href="'+urlSec(n.c)+'">'+esc(CATS[n.c])+'</a>'+
     '<a class="t" href="'+url(n)+'"><h3>'+esc(n.t)+'</h3></a><p>'+esc(n.r)+'</p><div class="meta">'+fecha(n.d)+'</div></div></article>';
 }
+function relDe(n){return n.p?"sponsored noopener":"noopener"}
 function parrafos(n){
   var t=n.b||"";var out=n.r?'<p class="entrada">'+esc(n.r)+'</p>':'';
   t.split(/\n\s*\n/).forEach(function(p){p=p.trim();if(!p)return;
-    var h=esc(p).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>').replace(/\n/g,"<br>");
+    var h=esc(p).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="'+relDe(n)+'">$1</a>').replace(/\n/g,"<br>");
     out+=/^#{1,3} /.test(p)?'<h2>'+h.replace(/^#{1,3} /,"")+'</h2>':'<p>'+h+'</p>'});
   return out;
 }
@@ -146,7 +147,7 @@ function seccion(){
   return {actual:q?"":c,html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><div class="cabeza"><h1>'+titulo+'</h1><p>'+sub+'</p></div>'+cuerpo+'</div>'+rail()+'</main></div>'};
 }
 function nota(){
-  var n=porId(param("id"));
+  var n=porId(param("id")||document.body.getAttribute("data-id"));
   if(!n)return {actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><div class="cabeza"><h1>Nota no encontrada</h1></div><p class="vacio">Esta nota no existe o fue retirada. Vuelve a la <a href="/" style="text-decoration:underline">portada</a>.</p></div>'+rail()+'</main></div>'};
   document.title=n.t+" · "+MARCA;
   var meta=document.querySelector('meta[name="description"]');if(meta)meta.setAttribute("content",n.r);
@@ -154,13 +155,13 @@ function nota(){
   var credito=n.foto?esc(n.cred||""):m.file&&!local(m.file)?'Foto: '+esc(m.alt)+' · <a href="https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(m.file)+'" target="_blank" rel="noopener">Wikimedia Commons</a> (imagen de referencia)':esc(m.alt||"");
   var h='<div class="wrap"><main class="cuerpo" id="contenido"><article class="nota-art">'+
     '<div class="migas"><a href="/">Portada</a><span>›</span><a href="'+urlSec(n.c)+'">'+CATS[n.c]+'</a></div>'+
-    '<h1>'+esc(n.t)+'</h1><div class="meta"><a class="cat" href="'+urlSec(n.c)+'">'+CATS[n.c]+'</a><span>'+esc(n.a)+' · '+fecha(n.d)+(hora(n)?' · '+hora(n)+' h':'')+'</span></div>'+
+    (n.p?'<p class="patrocinado">Contenido patrocinado</p>':'')+'<h1>'+esc(n.t)+'</h1><div class="meta"><a class="cat" href="'+urlSec(n.c)+'">'+CATS[n.c]+'</a><span>'+esc(n.a)+' · '+fecha(n.d)+(hora(n)?' · '+hora(n)+' h':'')+'</span></div>'+
     '<figure>'+imagen(n.img,"",1400,true,n.foto)+'<figcaption>'+credito+'</figcaption></figure>'+
     '<div class="texto">'+parrafos(n)+'</div>'+
-    (n.src.length?'<div class="caja-fuentes"><b>Fuentes</b><ul>'+n.src.map(function(s){return '<li><a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+'</a></li>'}).join("")+'</ul></div>':'')+
+    (n.src.length?'<div class="caja-fuentes"><b>'+(n.p?'Enlaces':'Fuentes')+'</b><ul>'+n.src.map(function(s){return '<li><a href="'+esc(s[1])+'" target="_blank" rel="'+relDe(n)+'">'+esc(s[0])+'</a></li>'}).join("")+'</ul></div>':'')+
     '<div class="compartir"><button class="btn sec" type="button" id="copiar">Copiar enlace</button>'+
-      '<a class="btn sec" href="https://wa.me/?text='+encodeURIComponent(n.t+" "+location.href)+'" target="_blank" rel="noopener">WhatsApp</a>'+
-      '<a class="btn sec" href="https://x.com/intent/post?text='+encodeURIComponent(n.t)+'&url='+encodeURIComponent(location.href)+'" target="_blank" rel="noopener">X</a>'+
+      '<a class="btn sec" href="https://wa.me/?text='+encodeURIComponent(n.t+" "+location.origin+url(n))+'" target="_blank" rel="noopener">WhatsApp</a>'+
+      '<a class="btn sec" href="https://x.com/intent/post?text='+encodeURIComponent(n.t)+'&url='+encodeURIComponent(location.origin+url(n))+'" target="_blank" rel="noopener">X</a>'+
       '<span id="copiado" role="status"></span></div>'+
     (rel.length?'<div class="cabeza"><h2>Más de '+CATS[n.c]+'</h2><a class="mas" href="'+urlSec(n.c)+'">Ver todas →</a></div><div class="tarjetas">'+rel.map(function(x){return tarjeta(x,false)}).join("")+'</div>':'')+
     '</article>'+rail()+'</main></div>';

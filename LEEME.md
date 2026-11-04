@@ -23,6 +23,8 @@ Una tarea programada puede agregar notas y actualizar los datos del día siguien
 - `content/notas/*.json` — una nota por archivo
 - `content/hoy.json` — El dato e indicadores de la columna lateral
 - `scripts/build.mjs` — junta todo en `assets/datos.js` (Netlify lo ejecuta en cada publicación)
+- `scripts/paginas.mjs` — en el mismo build genera una página HTML estática por nota en `/notas/<slug>/` (slug tomado del titular), `sitemap.xml` y `_redirects` (301 de `nota.html?id=…` a la URL nueva). Esos archivos no se versionan.
+- Campo `"patrocinado": true` en una nota — muestra la etiqueta «Contenido patrocinado» y marca sus enlaces con `rel="sponsored noopener"`.
 - `assets/imagenes.js` — fotos de archivo (Wikimedia Commons) e imágenes de marca por tema
 - `assets/logo.webp`, `assets/logo-blanco.webp` — logotipo para fondo claro y oscuro
 - `img/marca/` — piezas de identidad (portada, Última hora, estudio)
