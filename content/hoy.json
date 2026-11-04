@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:50 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.57",
-      "detalle": "Cierre del lunes 2 de noviembre; -1.19% (Dow Jones). FIX de hoy: 18.7962",
-      "tendencia": "baja",
-      "nota": "2026-11-02-el-peso-cierra-en-18-57-por-dolar-y-gana-1-19-en-una-jornada-de-feriad"
+      "valor": "$18.84",
+      "detalle": "Cierre interbancario del martes 3 de noviembre (Banxico vía N+); FIX: 18.7592",
+      "tendencia": "sube",
+      "nota": "2026-11-03-el-peso-cierra-en-18-84-por-dolar-y-cede-terreno-en-la-jornada-elector"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "104.11 USD",
-      "detalle": "Cierre del lunes; -6.68% por las pláticas Irán-Qatar sobre Ormuz (Reuters/Investing.com)",
+      "valor": "103.60 USD",
+      "detalle": "Cierre del martes; -1.1%, mínimo desde el 7 de octubre (Rigzone)",
       "tendencia": "baja",
-      "nota": "2026-11-02-el-petroleo-se-desploma-mas-de-7-el-brent-baja-a-104-77-dolares-por-se"
+      "nota": "2026-11-03-el-brent-cierra-en-103-60-dolares-su-nivel-mas-bajo-desde-el-7-de-octu"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,779.20",
-      "detalle": "-0.01% el viernes; la BMV no operó el lunes por Día de Muertos",
-      "tendencia": "igual",
-      "nota": "2026-10-30-la-bolsa-mexicana-cierra-practicamente-sin-cambios-en-69-779-puntos"
+      "valor": "70,143.09",
+      "detalle": "+0.52% el martes, al regresar del feriado de Día de Muertos",
+      "tendencia": "sube",
+      "nota": "2026-11-03-la-bolsa-mexicana-sube-0-52-y-cierra-en-70-143-puntos-tras-el-feriado"
     },
     {
-      "nombre": "PIB México (3T)",
-      "valor": "+3.2% anual",
-      "detalle": "Estimación oportuna del tercer trimestre; se esperaba 2.5%",
-      "tendencia": "sube",
-      "nota": "2026-10-30-la-economia-mexicana-crece-3-2-anual-en-el-tercer-trimestre-por-encima"
+      "nombre": "Confianza empresarial",
+      "valor": "48.2 puntos",
+      "detalle": "INEGI, octubre; -0.2 mensual y 20 meses por debajo de 50",
+      "tendencia": "baja",
+      "nota": "2026-11-03-la-confianza-empresarial-baja-a-48-2-puntos-en-octubre-y-suma-20-meses"
     }
   ]
 }

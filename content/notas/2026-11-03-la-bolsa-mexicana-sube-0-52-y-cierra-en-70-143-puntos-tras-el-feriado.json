@@ -1,0 +1,22 @@
+{
+  "titulo": "La Bolsa Mexicana sube 0.52% y cierra en 70,143 puntos tras el feriado; en Wall Street el Nasdaq gana 0.66%",
+  "seccion": "economia",
+  "fecha": "2026-11-03T18:34",
+  "resumen": "En su regreso tras el Día de Muertos, el S&P/BMV IPC avanzó 0.52% hasta 70,143.09 unidades. En Nueva York, el Dow Jones bajó 0.43% presionado por Apple, mientras el S&P 500 subió 0.28% y el Nasdaq 0.66%, con los inversionistas atentos a las elecciones intermedias.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "TV Azteca",
+      "enlace": "https://www.tvazteca.com/aztecanoticias/cierre-bolsa-mexicana-valores-bmv-hoy-3-noviembre-2026-por-elecciones-eu"
+    },
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/mercados/2026/11/03/bmv-wall-street-hoy-3-de-noviembre-de-2026/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
