@@ -1,6 +1,6 @@
 {
-  "fecha": "Miércoles 4 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "fecha": "Jueves 5 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.84",
-      "detalle": "Cierre interbancario del martes 3 de noviembre (Banxico vía N+); FIX: 18.7592",
-      "tendencia": "sube",
-      "nota": "2026-11-03-el-peso-cierra-en-18-84-por-dolar-y-cede-terreno-en-la-jornada-elector"
+      "valor": "$18.57",
+      "detalle": "Cierre del miércoles 4 de noviembre (Banxico): 18.5669, -1.44%; FIX: 18.6285",
+      "tendencia": "baja",
+      "nota": "2026-11-05-el-peso-gana-27-centavos-tras-la-derrota-republicana-y-cierra-en-18-57"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "103.60 USD",
-      "detalle": "Cierre del martes; -1.1%, mínimo desde el 7 de octubre (Rigzone)",
+      "valor": "94.62 USD",
+      "detalle": "Cierre del miércoles; -8.67% (Forbes México). WTI: 88.12 USD",
       "tendencia": "baja",
-      "nota": "2026-11-03-el-brent-cierra-en-103-60-dolares-su-nivel-mas-bajo-desde-el-7-de-octu"
+      "nota": "2026-11-05-el-petroleo-se-desploma-mas-de-8-el-brent-cierra-en-94-62-y-el-wti-en"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,143.09",
-      "detalle": "+0.52% el martes, al regresar del feriado de Día de Muertos",
+      "valor": "70,819.80",
+      "detalle": "+0.91% el miércoles; máximo desde el 27 de marzo",
       "tendencia": "sube",
-      "nota": "2026-11-03-la-bolsa-mexicana-sube-0-52-y-cierra-en-70-143-puntos-tras-el-feriado"
+      "nota": "2026-11-05-la-bolsa-mexicana-sube-0-91-y-cierra-en-70-819-8-puntos-su-mejor-nivel"
     },
     {
-      "nombre": "Confianza empresarial",
-      "valor": "48.2 puntos",
-      "detalle": "INEGI, octubre; -0.2 mensual y 20 meses por debajo de 50",
-      "tendencia": "baja",
-      "nota": "2026-11-03-la-confianza-empresarial-baja-a-48-2-puntos-en-octubre-y-suma-20-meses"
+      "nombre": "Dow Jones",
+      "valor": "53,356.12",
+      "detalle": "+3% el miércoles tras las intermedias en EU; S&P 500 +1.6%",
+      "tendencia": "sube",
+      "nota": "2026-11-05-la-bolsa-mexicana-sube-0-91-y-cierra-en-70-819-8-puntos-su-mejor-nivel"
     }
   ]
 }
