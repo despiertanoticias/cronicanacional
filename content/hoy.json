@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.57",
-      "detalle": "Cierre del miércoles 4 de noviembre (Banxico): 18.5669, -1.44%; FIX: 18.6285",
-      "tendencia": "baja",
-      "nota": "2026-11-05-el-peso-gana-27-centavos-tras-la-derrota-republicana-y-cierra-en-18-57"
+      "valor": "$18.75",
+      "detalle": "Cierre del jueves 5 de noviembre: peso -0.99% tras el recorte de Banxico; máximo intradía 18.96",
+      "tendencia": "sube",
+      "nota": "2026-11-05-el-peso-cae-casi-1-tras-el-recorte-de-banxico-y-cierra-cerca-de-18-75"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "94.62 USD",
-      "detalle": "Cierre del miércoles; -8.67% (Forbes México). WTI: 88.12 USD",
+      "valor": "98.29 USD",
+      "detalle": "Cierre del jueves; +3.88%. WTI: 90.52 USD; mezcla mexicana: 84.98 USD",
+      "tendencia": "sube",
+      "nota": "2026-11-05-el-petroleo-rebota-casi-4-la-mezcla-mexicana-cierra-en-84-98-dolares"
+    },
+    {
+      "nombre": "Tasa Banxico",
+      "valor": "6.25%",
+      "detalle": "Recorte de 25 puntos base el 5 de noviembre (votación 3-2)",
       "tendencia": "baja",
-      "nota": "2026-11-05-el-petroleo-se-desploma-mas-de-8-el-brent-cierra-en-94-62-y-el-wti-en"
+      "nota": "2026-11-05-banxico-sorprende-y-recorta-su-tasa-a-6-25-en-una-votacion-dividida"
     },
     {
-      "nombre": "S&P/BMV IPC",
-      "valor": "70,819.80",
-      "detalle": "+0.91% el miércoles; máximo desde el 27 de marzo",
-      "tendencia": "sube",
-      "nota": "2026-11-05-la-bolsa-mexicana-sube-0-91-y-cierra-en-70-819-8-puntos-su-mejor-nivel"
-    },
-    {
-      "nombre": "Dow Jones",
-      "valor": "53,356.12",
-      "detalle": "+3% el miércoles tras las intermedias en EU; S&P 500 +1.6%",
-      "tendencia": "sube",
-      "nota": "2026-11-05-la-bolsa-mexicana-sube-0-91-y-cierra-en-70-819-8-puntos-su-mejor-nivel"
+      "nombre": "Nasdaq",
+      "valor": "-5.52%",
+      "detalle": "Peor sesión desde abril de 2025; S&P 500 -4.35%, Dow Jones -3.44%",
+      "tendencia": "baja",
+      "nota": "2026-11-05-el-nasdaq-se-hunde-5-5-por-temor-a-frenos-a-los-centros-de-datos-nvidi"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "El Nasdaq se hunde 5.5% por temor a frenos a los centros de datos; Nvidia, AMD y Micron, entre las más golpeadas",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-05T18:31",
+  "resumen": "Wall Street tuvo un jueves de fuertes pérdidas: el Nasdaq cayó 5.52%, su peor sesión desde abril de 2025, el S&P 500 bajó 4.35% y el Dow Jones 3.44%. Los inversionistas temen que el nuevo Congreso de mayoría demócrata y gobernadores electos como Gina Hinojosa, en Texas, y Amy Acton, en Ohio, frenen la construcción de centros de datos para inteligencia artificial. Micron perdió 17.77%, AMD 17.39% y Nvidia 8.91%.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Nación",
+      "enlace": "https://www.lanacion.com.ar/estados-unidos/wall-street-cierra-con-una-fuerte-caida-por-temores-en-el-sector-de-la-ia-nid05112026/"
+    },
+    {
+      "medio": "Forbes México",
+      "enlace": "https://forbes.com.mx/caida-de-acciones-de-fabricantes-de-chips-se-agudiza-ante-preocupacion-por-el-futuro-de-centros-de-datos-tras-elecciones/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
