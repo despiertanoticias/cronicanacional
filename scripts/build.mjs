@@ -3,6 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { asignarSlugs, generar } from "./paginas.mjs";
+import { agregarVivo } from "./vivo.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -50,3 +51,6 @@ const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
 console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas en datos.js, ${paginas} páginas en /notas/, sitemap.xml y _redirects.`);
+
+// Datos para assets/en-vivo.js (notas publicadas desde /admin sin volver a publicar).
+agregarVivo(RAIZ);

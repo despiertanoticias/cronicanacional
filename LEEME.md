@@ -34,3 +34,9 @@ Una tarea programada puede agregar notas y actualizar los datos del día siguien
 ## Netlify
 - Comando de build: `node scripts/build.mjs` · Carpeta publicada: `.` (ya está en `netlify.toml`).
 - Dominio: `cronicanacional.org` (y `www.cronicanacional.org` redirige al dominio principal).
+
+## Lo que publicas desde /admin no gasta créditos de Netlify
+Netlify cobra 15 créditos por cada publicación del sitio. Para que lo que subes desde el panel no cueste:
+- `scripts/omitir-build.sh` le dice a Netlify que **no** publique cuando el cambio viene del panel (notas nuevas, ediciones, borrados, fotos o datos del día).
+- `assets/en-vivo.js` hace que el sitio lea esos cambios directo de GitHub y los muestre de inmediato (la nota abre en `nota.html?id=...`).
+- La siguiente publicación automática (o cualquier cambio de diseño) sí publica el sitio completo y la nota recibe su página fija y su lugar en el sitemap.
