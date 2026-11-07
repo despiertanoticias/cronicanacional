@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,17 +11,17 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.75",
-      "detalle": "Cierre Banxico del jueves 5 de noviembre: peso -0.99% tras el recorte de Banxico. FIX publicado el viernes en el DOF: 18.7147",
-      "tendencia": "sube",
-      "nota": "2026-11-05-el-peso-cae-casi-1-tras-el-recorte-de-banxico-y-cierra-cerca-de-18-75"
+      "valor": "$18.62",
+      "detalle": "Cierre del viernes 6 de noviembre según Bloomberg: peso +0.68% (13 centavos). Ventanilla Banamex: 19.05",
+      "tendencia": "baja",
+      "nota": "2026-11-06-el-peso-se-aprecia-0-68-y-cierra-la-semana-en-18-62-por-dolar"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "98.29 USD",
-      "detalle": "Cierre del jueves; +3.88%. WTI: 90.52 USD; mezcla mexicana: 84.98 USD",
+      "valor": "98.32 USD",
+      "detalle": "Cierre del viernes; +0.03% en el día y -19.7% en la semana. WTI: 90.83 USD",
       "tendencia": "sube",
-      "nota": "2026-11-05-el-petroleo-rebota-casi-4-la-mezcla-mexicana-cierra-en-84-98-dolares"
+      "nota": "2026-11-06-el-brent-cierra-la-semana-en-98-32-dolares-con-una-caida-de-casi-20"
     },
     {
       "nombre": "Tasa Banxico",
@@ -32,10 +32,10 @@
     },
     {
       "nombre": "Nasdaq",
-      "valor": "-5.52%",
-      "detalle": "Peor sesión desde abril de 2025; S&P 500 -4.35%, Dow Jones -3.44%",
-      "tendencia": "baja",
-      "nota": "2026-11-05-el-nasdaq-se-hunde-5-5-por-temor-a-frenos-a-los-centros-de-datos-nvidi"
+      "valor": "+1.09%",
+      "detalle": "Cierre del viernes en 24,579 puntos; pérdida semanal de 3.4%. S&P 500 +0.31%, Dow Jones -0.46%",
+      "tendencia": "sube",
+      "nota": "2026-11-06-wall-street-cierra-mixto-el-nasdaq-rebota-1-09-pero-suma-una-perdida-s"
     }
   ]
 }
