@@ -1,0 +1,18 @@
+{
+  "titulo": "Ola de ciberataques a plataformas de IA: hackers roban claves y generan gastos de más de 100 mil dólares",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-08T06:22",
+  "resumen": "La firma de seguridad Wiz documentó incidentes en al menos 14 plataformas de desarrollo y alojamiento de aplicaciones de inteligencia artificial entre octubre e inicios de noviembre, con robo de claves de acceso guardadas en variables de entorno.",
+  "cuerpo": "En un caso, una clave robada generó unas 800 mil llamadas en 30 horas a Amazon Bedrock; en otro, 1.7 millones en 13 horas. Wiz no halló una vulnerabilidad común ni pruebas de que se trate de un solo grupo. Entre las afectadas están Fireworks AI, Northflank y Brev, de Nvidia.",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://infobae.com/tecno/2026/11/07/una-ola-de-ciberataques-afecta-a-plataformas-de-inteligencia-artificial-hackers-roban-claves-de-acceso-y-generan-gastos-a-las-victimas"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
