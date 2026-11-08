@@ -4,6 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execSync } from "node:child_process";
+import crypto from "node:crypto";
 
 export function agregarVivo(RAIZ) {
   const cfg = fs.readFileSync(path.join(RAIZ, "admin/config.yml"), "utf8");
@@ -23,4 +24,26 @@ export function agregarVivo(RAIZ) {
   const autor = (build.match(/a: o\.autor \|\| "([^"]*)"/) || [])[1] || "Redacción";
   const vivo = { repo, rama, commit, secciones, autor };
   fs.appendFileSync(path.join(RAIZ, "assets/datos.js"), "window.VIVO=" + JSON.stringify(vivo) + ";\n");
+  versionar(RAIZ);
+}
+
+// Le pone ?v=<huella> a datos.js, app.js y en-vivo.js en todas las páginas, para que el
+// navegador descargue la versión nueva en cada publicación y nunca use una copia vieja guardada.
+export function versionar(RAIZ) {
+  const huella = f => { try { return crypto.createHash("sha1").update(fs.readFileSync(path.join(RAIZ, "assets", f))).digest("hex").slice(0, 10); } catch (e) { return ""; } };
+  const v = { "datos.js": huella("datos.js"), "app.js": huella("app.js"), "en-vivo.js": huella("en-vivo.js") };
+  const patron = /(assets\/(datos\.js|app\.js|en-vivo\.js))(\?v=[^"']*)?(["'])/g;
+  const omitir = new Set([".git", "node_modules", "admin", "img", "content", "scripts", "netlify"]);
+  let paginas = 0;
+  const recorrer = dir => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      if (e.isDirectory()) { if (!omitir.has(e.name)) recorrer(path.join(dir, e.name)); continue; }
+      if (!e.name.endsWith(".html")) continue;
+      const f = path.join(dir, e.name), s = fs.readFileSync(f, "utf8");
+      const s2 = s.replace(patron, (m, ruta, archivo, _v, comilla) => v[archivo] ? `${ruta}?v=${v[archivo]}${comilla}` : m);
+      if (s2 !== s) { fs.writeFileSync(f, s2); paginas++; }
+    }
+  };
+  recorrer(RAIZ);
+  console.log(`Versión de scripts en ${paginas} páginas (datos ${v["datos.js"]}).`);
 }
