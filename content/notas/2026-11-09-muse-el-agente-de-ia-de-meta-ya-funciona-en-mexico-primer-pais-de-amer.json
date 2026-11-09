@@ -1,0 +1,22 @@
+{
+  "titulo": "Muse, el agente de IA de Meta, ya funciona en México, primer país de América Latina",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-09T06:31",
+  "resumen": "Meta habilitó en México Muse, su agente personal de inteligencia artificial que ejecuta tareas y da seguimiento a pendientes. Está en español para mayores de 18 años, tiene un uso básico gratuito y planes de suscripción opcionales.",
+  "cuerpo": "Se conecta con Gmail, Google Calendar e Instagram, y entre sus primeros aliados en el país están Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool y Rappi. Especialistas recomiendan revisar los permisos que se otorgan al conectar correo, calendario o servicios financieros.",
+  "imagen_tema": "tech2",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Expansión",
+      "enlace": "https://expansion.mx/tecnologia/2026/11/05/muse-el-agente-de-meta-llega-a-mexico"
+    },
+    {
+      "medio": "Excélsior",
+      "enlace": "https://www.excelsior.com.mx/opinion/el-contador/contador-9-noviembre-2026"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

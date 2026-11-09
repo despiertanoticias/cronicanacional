@@ -1,6 +1,6 @@
 {
-  "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Lunes 9 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.63",
-      "detalle": "Cierre del viernes 6 de noviembre; FIX de Banxico: 18.6297. El peso ganó 0.82% en la semana y cortó ocho semanas de pérdidas",
+      "detalle": "Cierre del viernes 6 de noviembre; FIX de Banxico: 18.6297. El lunes abrió en 18.56 (-0.39%)",
       "tendencia": "baja",
-      "nota": "2026-11-08-el-peso-rompe-ocho-semanas-de-perdidas-banco-base-preve-que-el-dolar-o"
+      "nota": "2026-11-09-el-peso-abre-la-semana-en-18-56-por-dolar-con-avance-de-0-39"
     },
     {
       "nombre": "Petróleo Brent",
       "valor": "98.32 USD",
-      "detalle": "Cierre del viernes; +0.03% en el día y -19.7% en la semana. WTI: 90.83 USD",
+      "detalle": "Cierre del viernes (WTI: 90.83 USD). El lunes cotizaba en 97.35 USD (-0.99%)",
       "tendencia": "sube",
-      "nota": "2026-11-06-el-brent-cierra-la-semana-en-98-32-dolares-con-una-caida-de-casi-20"
+      "nota": "2026-11-09-el-brent-abre-la-semana-en-97-35-dolares-con-baja-cercana-a-1"
     },
     {
       "nombre": "BMV (IPC)",
