@@ -1,6 +1,6 @@
 {
   "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,10 +11,10 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.62",
-      "detalle": "Cierre del viernes 6 de noviembre según Bloomberg: peso +0.68% (13 centavos). Ventanilla Banamex: 19.05",
+      "valor": "$18.63",
+      "detalle": "Cierre del viernes 6 de noviembre; FIX de Banxico: 18.6297. El peso ganó 0.82% en la semana y cortó ocho semanas de pérdidas",
       "tendencia": "baja",
-      "nota": "2026-11-06-el-peso-se-aprecia-0-68-y-cierra-la-semana-en-18-62-por-dolar"
+      "nota": "2026-11-08-el-peso-rompe-ocho-semanas-de-perdidas-banco-base-preve-que-el-dolar-o"
     },
     {
       "nombre": "Petróleo Brent",
