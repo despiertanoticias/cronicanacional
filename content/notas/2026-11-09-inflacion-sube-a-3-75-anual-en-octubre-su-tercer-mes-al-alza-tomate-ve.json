@@ -1,0 +1,26 @@
+{
+  "titulo": "Inflación sube a 3.75% anual en octubre, su tercer mes al alza; tomate verde y electricidad, lo que más se encareció",
+  "seccion": "economia",
+  "fecha": "2026-11-09T18:50",
+  "resumen": "El INEGI informó que los precios al consumidor subieron 0.65% en octubre frente a septiembre y la inflación anual llegó a 3.75%, por encima del 3.65% que esperaba el mercado. La subyacente, que excluye los precios más volátiles, se ubicó en 3.80% anual.",
+  "cuerpo": "Entre los productos con mayores alzas mensuales estuvieron el tomate verde (35.58%), el transporte aéreo (26.36%), la calabacita (23.22%) y la electricidad (18.51%). En sentido contrario bajaron el limón (-16.53%), el chile serrano (-8.98%), la naranja (-8.90%) y el aguacate (-7.20%). El componente no subyacente subió 1.75% en el mes. El dato llega una semana después de que el Banco de México recortó su tasa de interés.",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "UnoTV",
+      "enlace": "https://www.unotv.com/negocios/inflacion-mexico-octubre-2026-productos-subieron-bajaron-precios-estados-inegi/"
+    },
+    {
+      "medio": "Cadena Política",
+      "enlace": "https://cadenapolitica.com/2026/11/09/peso-mexicano-gana-terreno-frente-al-dolar-cierra-en-18-53-unidades-tras-inflacion-y-declaraciones-de-trump/"
+    },
+    {
+      "medio": "El Imparcial",
+      "enlace": "https://www.elimparcial.com/dinero/2026/11/09/la-inflacion-en-mexico-sube-por-tercer-mes-consecutivo-y-dispara-el-precio-del-tomate-verde-la-electricidad-y-otros-productos-durante-octubre-de-2026-segun-el-inegi/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
