@@ -1,6 +1,6 @@
 {
-  "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Miércoles 11 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -18,10 +18,10 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.15 USD",
-      "detalle": "Cotización del martes por la mañana (Bloomberg), -1.53%; acumula una caída cercana a 22% desde el máximo del 30 de octubre",
+      "valor": "< 90 USD",
+      "detalle": "El martes cayó por debajo de 90 dólares por barril por primera vez desde agosto (CaixaBank Research)",
       "tendencia": "baja",
-      "nota": "2026-11-10-el-brent-sigue-a-la-baja-y-cotiza-en-91-54-dolares-acumula-caida-de-21"
+      "nota": "2026-11-11-el-brent-baja-de-90-dolares-por-primera-vez-desde-agosto-el-oro-cae-2"
     },
     {
       "nombre": "BMV (IPC)",
