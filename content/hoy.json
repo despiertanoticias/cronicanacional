@@ -1,34 +1,34 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "07:05 h",
+  "actualizado": "18:45 h",
   "dato": {
-    "cifra": "58.1%",
-    "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
-    "detalle": "91 áreas urbanas; 63.0% un año antes",
-    "fuente": "INEGI, ENSU, septiembre 2026",
-    "enlace": "https://www.inegi.org.mx/programas/ensu/"
+    "cifra": "25.9%",
+    "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
+    "detalle": "Unos 1.4 millones de establecimientos; costo de 115,100 millones de pesos (0.46% del PIB)",
+    "fuente": "INEGI, ENVE 2026",
+    "enlace": "https://www.inegi.org.mx/programas/enve/"
   },
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.54",
-      "detalle": "Cierre del lunes 9 de noviembre: 18.5377 (Banxico), 9 centavos menos que el viernes (-0.49%)",
-      "tendencia": "baja",
-      "nota": "2026-11-09-el-peso-cierra-en-18-54-por-dolar-y-gana-0-49-pese-a-una-inflacion-may"
+      "valor": "$18.62",
+      "detalle": "Cierre del martes 10 de noviembre (Banxico): sube desde 18.54; el peso pierde 0.43% tras la inflación de EU",
+      "tendencia": "sube",
+      "nota": "2026-11-10-el-peso-cierra-en-18-62-por-dolar-y-pierde-0-43-tras-una-inflacion-en"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.54 USD",
-      "detalle": "Cotización temprana del martes (OilPriceAPI), tras cerrar el lunes en 92.57; -21% desde el 30 de octubre",
+      "valor": "91.15 USD",
+      "detalle": "Cotización del martes por la mañana (Bloomberg), -1.53%; acumula una caída cercana a 22% desde el máximo del 30 de octubre",
       "tendencia": "baja",
       "nota": "2026-11-10-el-brent-sigue-a-la-baja-y-cotiza-en-91-54-dolares-acumula-caida-de-21"
     },
     {
       "nombre": "BMV (IPC)",
-      "valor": "71,855.64",
-      "detalle": "Cierre del lunes: +0.65%, nuevo máximo histórico; +11.7% en el año",
+      "valor": "71,893.88",
+      "detalle": "Cierre del martes: +0.05%, sexta alza seguida y nuevo máximo histórico; +11.8% en el año",
       "tendencia": "sube",
-      "nota": "2026-11-09-la-bolsa-mexicana-marca-un-nuevo-maximo-historico-el-ipc-sube-0-65-y-c"
+      "nota": "2026-11-10-la-bolsa-mexicana-hila-seis-alzas-y-fija-otro-maximo-historico-en-71-8"
     },
     {
       "nombre": "Inflación anual",
