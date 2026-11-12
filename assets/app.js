@@ -12,7 +12,14 @@ var H=window.HOY||{};
 var HOY={fecha:H.fecha||"",actualizado:H.actualizado||"",dato:H.dato||null,indicadores:H.indicadores||[]};
 
 NOTAS.forEach(function(n){n.d=(n.f||"").slice(0,10)});
-function porId(id){for(var i=0;i<NOTAS.length;i++)if(NOTAS[i].id===id)return NOTAS[i];return null}
+function porId(id){for(var i=0;i<NOTAS.length;i++)if(NOTAS[i].id===id)return NOTAS[i];var x=(window.ARCHIVO_NOTAS||{})[id];if(x){x.d=(x.f||"").slice(0,10);return x}return null}
+/* Notas más viejas que las de datos.js: se cargan de assets/notas/<id>.json (las genera scripts/build.mjs). */
+function pedirArchivo(id){var A=window.ARCHIVO_NOTAS=window.ARCHIVO_NOTAS||{},P=window.ARCHIVO_PEDIDAS=window.ARCHIVO_PEDIDAS||{};
+  if(!id||P[id]||!window.fetch||!/^[\w-]+$/.test(id))return false;P[id]=1;
+  fetch("/assets/notas/"+id+".json").then(function(r){if(!r.ok)throw r.status;return r.json()})
+  .then(function(n){if(n&&n.id===id)A[id]=n}).catch(function(){})
+  .then(function(){var s0=document.querySelector('script[src*="assets/app.js"]');if(!s0)return;var s=document.createElement("script");s.src=s0.src;document.body.appendChild(s)});
+  return true}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function fecha(d){if(!d)return "";var p=d.split("-");return parseInt(p[2],10)+" de "+MESES[parseInt(p[1],10)-1]+" de "+p[0]}
 function hora(n){return (n.f||"").slice(11,16)}
@@ -147,7 +154,8 @@ function seccion(){
   return {actual:q?"":c,html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><div class="cabeza"><h1>'+titulo+'</h1><p>'+sub+'</p></div>'+cuerpo+'</div>'+rail()+'</main></div>'};
 }
 function nota(){
-  var n=porId(param("id")||document.body.getAttribute("data-id"));
+  var idNota=param("id")||document.body.getAttribute("data-id"), n=porId(idNota);
+  if(!n&&pedirArchivo(idNota))return {actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><p class="vacio">Cargando nota…</p></div>'+rail()+'</main></div>'};
   if(!n)return {actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><div class="cabeza"><h1>Nota no encontrada</h1></div><p class="vacio">Esta nota no existe o fue retirada. Vuelve a la <a href="/" style="text-decoration:underline">portada</a>.</p></div>'+rail()+'</main></div>'};
   document.title=n.t+" · "+MARCA;
   var meta=document.querySelector('meta[name="description"]');if(meta)meta.setAttribute("content",n.r);
