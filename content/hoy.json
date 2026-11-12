@@ -1,5 +1,5 @@
 {
-  "fecha": "Miércoles 11 de noviembre de 2026",
+  "fecha": "Jueves 12 de noviembre de 2026",
   "actualizado": "06:50 h",
   "dato": {
     "cifra": "25.9%",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.62",
-      "detalle": "Cierre del martes 10 de noviembre (Banxico): sube desde 18.54; el peso pierde 0.43% tras la inflación de EU",
-      "tendencia": "sube",
-      "nota": "2026-11-10-el-peso-cierra-en-18-62-por-dolar-y-pierde-0-43-tras-una-inflacion-en"
+      "valor": "$18.61",
+      "detalle": "Cierre del miércoles 11 de noviembre (Banxico): prácticamente sin cambio; rango del día de 18.56 a 18.69",
+      "tendencia": "igual",
+      "nota": "2026-11-12-el-peso-cierra-estable-en-18-61-por-dolar-pese-a-un-dolar-global-mas-f"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "< 90 USD",
-      "detalle": "El martes cayó por debajo de 90 dólares por barril por primera vez desde agosto (CaixaBank Research)",
-      "tendencia": "baja",
-      "nota": "2026-11-11-el-brent-baja-de-90-dolares-por-primera-vez-desde-agosto-el-oro-cae-2"
+      "valor": "92.76 USD",
+      "detalle": "Cierre del miércoles: +1.4% tras tocar el martes su nivel más bajo en dos meses",
+      "tendencia": "sube",
+      "nota": "2026-11-12-el-brent-rebota-y-cierra-en-92-76-dolares-tras-tocar-minimos-de-dos-me"
     },
     {
-      "nombre": "BMV (IPC)",
-      "valor": "71,893.88",
-      "detalle": "Cierre del martes: +0.05%, sexta alza seguida y nuevo máximo histórico; +11.8% en el año",
-      "tendencia": "sube",
-      "nota": "2026-11-10-la-bolsa-mexicana-hila-seis-alzas-y-fija-otro-maximo-historico-en-71-8"
+      "nombre": "Actividad industrial",
+      "valor": "-1.4%",
+      "detalle": "INEGI, septiembre 2026: caída mensual; +1.4% anual. Construcción -2.0% y manufacturas -1.7%",
+      "tendencia": "baja",
+      "nota": "2026-11-12-la-actividad-industrial-cae-1-4-en-septiembre-y-rompe-tres-meses-de-al"
     },
     {
       "nombre": "Inflación anual",

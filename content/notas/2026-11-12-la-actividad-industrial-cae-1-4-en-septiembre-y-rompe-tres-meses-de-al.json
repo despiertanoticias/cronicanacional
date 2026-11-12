@@ -1,0 +1,22 @@
+{
+  "titulo": "La actividad industrial cae 1.4% en septiembre y rompe tres meses de alzas",
+  "seccion": "economia",
+  "fecha": "2026-11-12T06:42",
+  "resumen": "La producción industrial de México retrocedió 1.4% en septiembre frente a agosto, de acuerdo con el INEGI, y cortó una racha de tres meses de crecimiento. A tasa anual avanzó 1.4%.",
+  "cuerpo": "La construcción bajó 2.0% mensual y las manufacturas 1.7%, mientras que la minería subió 0.4% y la generación de electricidad, agua y gas 1.4%. En comparación anual, la construcción creció 6.4% y la minería cayó 1.5%.",
+  "imagen_tema": "palacio",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Política Online",
+      "enlace": "https://www.lapoliticaonline.com/mexico/economia-mx/la-industria-cae-1-4-en-septiembre-y-rompe-racha-de-tres-meses-de-crecimiento/"
+    },
+    {
+      "medio": "INEGI",
+      "enlace": "https://www.inegi.org.mx/temas/imai/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
