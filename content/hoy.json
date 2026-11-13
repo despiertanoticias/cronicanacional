@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:35 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.61",
-      "detalle": "Cierre del miércoles 11 de noviembre (Banxico): prácticamente sin cambio; rango del día de 18.56 a 18.69",
+      "valor": "$18.62",
+      "detalle": "Cierre del jueves 12 de noviembre (Banxico): sin cambio; tocó cerca de 18.69 tras la amenaza arancelaria de Trump",
       "tendencia": "igual",
-      "nota": "2026-11-12-el-peso-cierra-estable-en-18-61-por-dolar-pese-a-un-dolar-global-mas-f"
+      "nota": "2026-11-12-el-peso-cierra-en-18-62-por-dolar-sin-cambios-tras-la-amenaza-arancela"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.76 USD",
-      "detalle": "Cierre del miércoles: +1.4% tras tocar el martes su nivel más bajo en dos meses",
+      "valor": "95.82 USD",
+      "detalle": "Cierre del jueves: +3.3% por ataques a instalaciones petroleras saudíes; WTI en 88.74",
       "tendencia": "sube",
-      "nota": "2026-11-12-el-brent-rebota-y-cierra-en-92-76-dolares-tras-tocar-minimos-de-dos-me"
+      "nota": "2026-11-12-el-brent-sube-3-3-y-cierra-en-95-82-dolares-por-ataques-a-instalacione"
     },
     {
-      "nombre": "Actividad industrial",
-      "valor": "-1.4%",
-      "detalle": "INEGI, septiembre 2026: caída mensual; +1.4% anual. Construcción -2.0% y manufacturas -1.7%",
+      "nombre": "S&P/BMV IPC",
+      "valor": "71,811 pts",
+      "detalle": "Cierre del jueves: -0.27%, corta racha de siete alzas; +11.55% en el año",
       "tendencia": "baja",
-      "nota": "2026-11-12-la-actividad-industrial-cae-1-4-en-septiembre-y-rompe-tres-meses-de-al"
+      "nota": "2026-11-12-la-bolsa-mexicana-baja-0-27-y-corta-una-racha-de-siete-alzas"
     },
     {
       "nombre": "Inflación anual",
