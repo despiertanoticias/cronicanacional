@@ -1,6 +1,6 @@
 {
-  "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "18:35 h",
+  "fecha": "Viernes 13 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -12,9 +12,9 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.62",
-      "detalle": "Cierre del jueves 12 de noviembre (Banxico): sin cambio; tocó cerca de 18.69 tras la amenaza arancelaria de Trump",
-      "tendencia": "igual",
-      "nota": "2026-11-12-el-peso-cierra-en-18-62-por-dolar-sin-cambios-tras-la-amenaza-arancela"
+      "detalle": "Cierre del jueves 12 de noviembre (Banxico); el viernes abre cerca de 18.55 (-0.28%)",
+      "tendencia": "baja",
+      "nota": "2026-11-13-el-peso-abre-el-viernes-en-18-55-por-dolar-y-se-aprecia-0-28"
     },
     {
       "nombre": "Petróleo Brent",
