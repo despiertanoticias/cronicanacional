@@ -1,0 +1,22 @@
+{
+  "titulo": "México detiene sus vuelos hacia Estados Unidos por la falla en el control aéreo estadounidense",
+  "seccion": "nacional",
+  "fecha": "2026-11-14T06:59",
+  "resumen": "La Agencia Federal de Aviación Civil (AFAC) pidió el viernes mantener en tierra todas las aeronaves con destino a Estados Unidos, luego de que la FAA suspendiera los despegues en todo ese país por una falla de comunicaciones que afectó a 22 centros regionales de control. Aeroméxico suspendió todas sus operaciones desde y hacia EU hasta nuevo aviso, y Volaris advirtió retrasos y cancelaciones.",
+  "cuerpo": "El AICM y el Grupo Aeroportuario del Pacífico reportaron afectaciones en sus vuelos ligados a EU. Al cierre de la nota original ninguna autoridad mexicana había dado una cifra de vuelos afectados en el país. El secretario de Seguridad Nacional de EU, Markwayne Mullin, dijo que no hay indicios de un ataque malintencionado. Las operaciones se reanudaron de forma gradual horas después.",
+  "imagen_tema": "ultimahora",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Proceso",
+      "enlace": "https://www.proceso.com.mx/nacional/2026/11/13/mexico-suspende-despegues-hacia-eu-por-crisis-aerea-aeromexico-y-volaris-reportan-afectaciones-383697.html"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/14/en-vivo-suspension-de-vuelos-en-eeuu/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

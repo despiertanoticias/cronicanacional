@@ -1,0 +1,22 @@
+{
+  "titulo": "La Bolsa mexicana cae 0.84% el viernes y cierra la semana en 71,204 puntos",
+  "seccion": "economia",
+  "fecha": "2026-11-14T06:52",
+  "resumen": "El S&P/BMV IPC terminó el viernes 13 en 71,204.98 puntos, con una baja diaria de 0.84%, y acumuló una pérdida semanal de 0.26%. Entre las emisoras con mayores caídas en la semana estuvieron Peñoles (-6.26%), Alpek (-5.04%) y Genomma Lab (-3.95%).",
+  "cuerpo": "En Wall Street, el Nasdaq bajó 0.91% y el S&P 500 0.40%, mientras el Dow Jones subió 0.10%; las acciones de Nvidia cayeron 2.01% en el día y cerca de 12.75% en la semana tras la salida de su director general.",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Informador",
+      "enlace": "https://www.informador.mx/economia/bolsa-de-mexico-pierde-0.26--en-la-semana-y-se-ubica-en-71-mil-204.98-puntos-20261113-0173.html"
+    },
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/mercados/2026/11/13/bmv-wall-street-hoy-13-de-noviembre-de-2026/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

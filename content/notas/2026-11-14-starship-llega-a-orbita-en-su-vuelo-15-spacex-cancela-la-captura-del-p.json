@@ -1,0 +1,18 @@
+{
+  "titulo": "Starship llega a órbita en su vuelo 15; SpaceX cancela la captura del propulsor",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-14T06:42",
+  "resumen": "SpaceX lanzó el viernes la Starship desde Starbase, Texas, en su vuelo de prueba 15. La empresa canceló la captura del propulsor Super Heavy con los brazos de la torre y lo hizo amerizar en el Golfo de México; la nave alcanzó la órbita y desplegó 26 satélites Starlink V3.",
+  "cuerpo": "La nave daría 14 vueltas a la Tierra antes de intentar este sábado, unas 22 horas y media después del despegue, regresar a Starbase para ser atrapada por la torre. SpaceX solo lo hará si confirma que sus sistemas están en buen estado; si no, amerizará en una zona de respaldo.",
+  "imagen_tema": "texas",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Space.com",
+      "enlace": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
