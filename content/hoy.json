@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:54 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,17 +11,17 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.62",
-      "detalle": "Cierre del jueves 12 de noviembre (Banxico); el viernes abre cerca de 18.55 (-0.28%)",
+      "valor": "$18.53",
+      "detalle": "Cierre del viernes 13 de noviembre (Banxico): -0.44% en el día y -0.51% en la semana",
       "tendencia": "baja",
-      "nota": "2026-11-13-el-peso-abre-el-viernes-en-18-55-por-dolar-y-se-aprecia-0-28"
+      "nota": "2026-11-13-el-peso-cierra-la-semana-en-18-53-por-dolar-y-suma-dos-dias-de-gananci"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "95.82 USD",
-      "detalle": "Cierre del jueves: +3.3% por ataques a instalaciones petroleras saudíes; WTI en 88.74",
-      "tendencia": "sube",
-      "nota": "2026-11-12-el-brent-sube-3-3-y-cierra-en-95-82-dolares-por-ataques-a-instalacione"
+      "valor": "95.84 USD",
+      "detalle": "Cierre del viernes: estable (+0.02 USD); -1.6% en la semana",
+      "tendencia": "igual",
+      "nota": "2026-11-13-el-brent-cierra-estable-en-95-84-dolares-en-la-semana-baja-1-6"
     },
     {
       "nombre": "S&P/BMV IPC",
