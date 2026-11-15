@@ -1,0 +1,22 @@
+{
+  "titulo": "Microsoft restablece Outlook, Teams y Copilot tras una falla global de dos días",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-14T18:47",
+  "resumen": "Microsoft informó el sábado que todos sus productos ya operan con normalidad, tras una interrupción que desde el jueves afectó Outlook, Teams y el asistente Copilot. Downdetector registró reportes en más de 70 países.",
+  "cuerpo": "La empresa atribuyó la falla a un error introducido en una actualización para ampliar la capacidad de su red. Compañías como Richemont y Workhorse Group tuvieron que retrasar la publicación de sus resultados, y el sistema de salud público del Reino Unido reprogramó algunos procedimientos. Microsoft también advirtió a los usuarios de un aumento de intentos de phishing tras el incidente.",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/tech/2026/11/14/que-paso-microsoft-restablece-por-completo-sus-servicios-tras-una-interrupcion-global/"
+    },
+    {
+      "medio": "Expansión",
+      "enlace": "https://expansion.mx/tecnologia/2026/11/14/microsoft-restablece-servicios-advierte-usuarios-phishing"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
