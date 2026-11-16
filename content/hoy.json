@@ -1,6 +1,6 @@
 {
-  "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.53",
-      "detalle": "Cierre del viernes 13 de noviembre (Banxico): -0.44% en el día y -0.51% en la semana",
+      "detalle": "Cierre del viernes 13 (Banxico). Lunes: 18.58 en la madrugada; sin FIX por el feriado de la Revolución",
       "tendencia": "baja",
-      "nota": "2026-11-13-el-peso-cierra-la-semana-en-18-53-por-dolar-y-suma-dos-dias-de-gananci"
+      "nota": "2026-11-16-el-peso-abre-la-semana-en-18-58-por-dolar-no-habra-tipo-de-cambio-fix"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "95.84 USD",
-      "detalle": "Cierre del viernes: estable (+0.02 USD); -1.6% en la semana",
-      "tendencia": "igual",
-      "nota": "2026-11-13-el-brent-cierra-estable-en-95-84-dolares-en-la-semana-baja-1-6"
+      "valor": "94.86 USD",
+      "detalle": "Lunes 16, primeras operaciones: -1% por expectativa de sobreoferta",
+      "tendencia": "baja",
+      "nota": "2026-11-16-el-brent-baja-1-a-94-86-dolares-por-expectativa-de-sobreoferta-el-kosp"
     },
     {
       "nombre": "S&P/BMV IPC",
