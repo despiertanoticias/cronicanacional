@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:55 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,17 +11,17 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.53",
-      "detalle": "Cierre del viernes 13 (Banxico). Lunes: 18.58 en la madrugada; sin FIX por el feriado de la Revolución",
-      "tendencia": "baja",
-      "nota": "2026-11-16-el-peso-abre-la-semana-en-18-58-por-dolar-no-habra-tipo-de-cambio-fix"
+      "valor": "$18.66",
+      "detalle": "Lunes 16, cotización electrónica (Bloomberg): peso -0.69%; sin cierre oficial ni FIX por el feriado de la Revolución",
+      "tendencia": "sube",
+      "nota": "2026-11-16-el-peso-se-deprecia-0-69-en-el-feriado-y-cotiza-en-18-66-por-dolar-ant"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "94.86 USD",
-      "detalle": "Lunes 16, primeras operaciones: -1% por expectativa de sobreoferta",
+      "valor": "92.44 USD",
+      "detalle": "Cierre del lunes 16: -3.55%; WTI en 85.72 dólares (-3.21%)",
       "tendencia": "baja",
-      "nota": "2026-11-16-el-brent-baja-1-a-94-86-dolares-por-expectativa-de-sobreoferta-el-kosp"
+      "nota": "2026-11-16-el-brent-se-desploma-3-55-y-cierra-en-92-44-dolares-la-aie-preve-un-ex"
     },
     {
       "nombre": "S&P/BMV IPC",
