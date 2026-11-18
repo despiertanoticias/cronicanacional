@@ -1,0 +1,22 @@
+{
+  "titulo": "Nvidia deja de enviar a China sus chips Hopper autorizados por EU; vendió 2,400 millones de dólares en el trimestre",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-18T06:40",
+  "resumen": "La directora general interina, Colette Kress, anunció en la llamada de resultados que la empresa ya no envía a China los productos de centro de datos Hopper con licencia de exportación. No explicó el motivo.",
+  "cuerpo": "La decisión llega en medio del escándalo que llevó a la salida de Jensen Huang. En el tercer trimestre, Nvidia más que duplicó sus ingresos, a más de 115,000 millones de dólares, con una utilidad neta de 65,300 millones.",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "CRHoy / AFP",
+      "enlace": "https://crhoy.com/mundo/nvidia-dejo-de-enviar-chips-de-ia-a-china"
+    },
+    {
+      "medio": "Bloomberg",
+      "enlace": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
