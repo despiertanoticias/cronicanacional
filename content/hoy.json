@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:50 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.66",
-      "detalle": "Lunes 16, cotización electrónica (Bloomberg): peso -0.69%; sin cierre oficial ni FIX por el feriado de la Revolución",
-      "tendencia": "sube",
-      "nota": "2026-11-16-el-peso-se-deprecia-0-69-en-el-feriado-y-cotiza-en-18-66-por-dolar-ant"
+      "valor": "$18.43",
+      "detalle": "Martes 17, cierre de Banxico: el peso se aprecia 0.54% (de 18.53 a 18.43)",
+      "tendencia": "baja",
+      "nota": "2026-11-17-el-peso-se-aprecia-0-54-y-cierra-en-18-43-por-dolar-segun-banxico"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.44 USD",
-      "detalle": "Cierre del lunes 16: -3.55%; WTI en 85.72 dólares (-3.21%)",
-      "tendencia": "baja",
-      "nota": "2026-11-16-el-brent-se-desploma-3-55-y-cierra-en-92-44-dolares-la-aie-preve-un-ex"
+      "valor": "93.14 USD",
+      "detalle": "Cierre del martes 17: +0.76%; WTI en 86.01 dólares (+0.34%)",
+      "tendencia": "sube",
+      "nota": "2026-11-17-el-brent-sube-0-76-y-cierra-en-93-14-dolares-por-la-tension-en-ormuz-p"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,205 pts",
-      "detalle": "Cierre del viernes 13: -0.84% en el día y -0.26% en la semana",
+      "valor": "70,389 pts",
+      "detalle": "Cierre del martes 17: -1.15%, tercera sesión a la baja; +9.62% en el año",
       "tendencia": "baja",
-      "nota": "2026-11-14-la-bolsa-mexicana-cae-0-84-el-viernes-y-cierra-la-semana-en-71-204-pun"
+      "nota": "2026-11-17-la-bolsa-mexicana-cae-1-15-y-suma-tres-sesiones-a-la-baja-en-espera-de"
     },
     {
       "nombre": "Inflación anual",
