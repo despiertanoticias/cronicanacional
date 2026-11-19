@@ -1,5 +1,5 @@
 {
-  "fecha": "Miércoles 18 de noviembre de 2026",
+  "fecha": "Jueves 19 de noviembre de 2026",
   "actualizado": "06:35 h",
   "dato": {
     "cifra": "25.9%",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.43",
-      "detalle": "Martes 17, cierre de Banxico: el peso se aprecia 0.54% (de 18.53 a 18.43)",
-      "tendencia": "baja",
-      "nota": "2026-11-17-el-peso-se-aprecia-0-54-y-cierra-en-18-43-por-dolar-segun-banxico"
+      "valor": "$18.84",
+      "detalle": "Miércoles 18, cierre de Banxico: el peso pierde 2.28% (42 centavos), su peor día desde junio de 2024",
+      "tendencia": "sube",
+      "nota": "2026-11-19-el-peso-sufre-su-peor-caida-diaria-en-casi-dos-anos-y-medio-pierde-2-2"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "93.14 USD",
-      "detalle": "Cierre del martes 17: +0.76%; WTI en 86.01 dólares (+0.34%)",
-      "tendencia": "sube",
-      "nota": "2026-11-17-el-brent-sube-0-76-y-cierra-en-93-14-dolares-por-la-tension-en-ormuz-p"
+      "valor": "91.95 USD",
+      "detalle": "Cierre del miércoles 18: -1.27%; WTI en 82.31 dólares (-2.76%)",
+      "tendencia": "baja",
+      "nota": "2026-11-19-el-brent-baja-1-27-y-cierra-en-91-95-dolares-el-wti-cae-2-76-por-mayor"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,389 pts",
-      "detalle": "Cierre del martes 17: -1.15%, tercera sesión a la baja; +9.62% en el año",
+      "valor": "69,154 pts",
+      "detalle": "Cierre del miércoles 18: -1.75%, cuarta sesión a la baja; +7.49% en el año",
       "tendencia": "baja",
-      "nota": "2026-11-17-la-bolsa-mexicana-cae-1-15-y-suma-tres-sesiones-a-la-baja-en-espera-de"
+      "nota": "2026-11-19-la-bolsa-mexicana-cae-1-75-su-peor-sesion-desde-junio-y-suma-cuatro-jo"
     },
     {
       "nombre": "Inflación anual",
