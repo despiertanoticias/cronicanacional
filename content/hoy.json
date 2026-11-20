@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "06:35 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,17 +11,17 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.84",
-      "detalle": "Miércoles 18, cierre de Banxico: el peso pierde 2.28% (42 centavos), su peor día desde junio de 2024",
+      "valor": "$19.03",
+      "detalle": "Jueves 19, cierre de Banxico (19.0270): el peso pierde 1.32% y el dólar supera los 19 pesos por primera vez desde junio de 2025",
       "tendencia": "sube",
-      "nota": "2026-11-19-el-peso-sufre-su-peor-caida-diaria-en-casi-dos-anos-y-medio-pierde-2-2"
+      "nota": "2026-11-19-el-dolar-rebasa-los-19-pesos-por-primera-vez-desde-junio-de-2025-el-pe"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.95 USD",
-      "detalle": "Cierre del miércoles 18: -1.27%; WTI en 82.31 dólares (-2.76%)",
-      "tendencia": "baja",
-      "nota": "2026-11-19-el-brent-baja-1-27-y-cierra-en-91-95-dolares-el-wti-cae-2-76-por-mayor"
+      "valor": "91.98 USD",
+      "detalle": "Cierre del jueves 19: +0.03%; WTI de diciembre en 83.21 dólares (-0.06%)",
+      "tendencia": "igual",
+      "nota": "2026-11-19-el-brent-cierra-casi-sin-cambios-en-91-98-dolares-el-wti-de-diciembre"
     },
     {
       "nombre": "S&P/BMV IPC",
