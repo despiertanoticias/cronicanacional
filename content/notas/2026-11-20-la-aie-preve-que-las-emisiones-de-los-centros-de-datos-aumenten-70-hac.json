@@ -1,0 +1,22 @@
+{
+  "titulo": "La AIE prevé que las emisiones de los centros de datos aumenten 70% hacia 2030 por el auge de la IA",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-20T06:24",
+  "resumen": "La Agencia Internacional de Energía estima que el consumo eléctrico de los centros de datos se duplicará en cuatro años y que sus emisiones crecerán 70% hacia 2030. La inteligencia artificial explicará tres cuartas partes del aumento.",
+  "cuerpo": "Los centros de datos de IA necesitarán unos 350 TWh adicionales al año en 2030, más de lo que hoy consume Reino Unido. Según el informe, el carbón abastecería cerca de la mitad de la electricidad de estos centros en China y el gas alrededor de 60% en Estados Unidos, mientras la Unión Europea espera 70% de renovables.",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "10 Things",
+      "enlace": "https://www.10things.news/p/10-things-global-news-20th-november-0cb"
+    },
+    {
+      "medio": "The Guardian",
+      "enlace": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
