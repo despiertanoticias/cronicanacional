@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street se desploma: el Nasdaq cae 5.3% y Nvidia 14% por la venta masiva de acciones de inteligencia artificial",
+  "seccion": "economia",
+  "fecha": "2026-11-20T18:44",
+  "resumen": "El S&P 500 bajó 3.7% a 6,910.39 puntos y entró en corrección, más de 10% por debajo de su récord del 6 de octubre, en su peor semana en más de 18 meses. El Nasdaq perdió 5.3% a 22,617.73 puntos y ya está en terreno negativo en el año; el Dow Jones cedió 1.9% a 48,147.33.",
+  "cuerpo": "La caída se concentró en las empresas ligadas a la inteligencia artificial: Nvidia se hundió 14%, Micron 13.9% y AMD 13.3%, mientras el índice de semiconductores PHLX retrocedió 10.7%. Anthropic, que debutó en bolsa esta semana, cayó 8.5% a 88.91 dólares, todavía por encima de su precio de salida de 83 dólares. El rendimiento del bono del Tesoro a 10 años bajó de 5.04% a 4.93%.",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "AP / Yahoo Noticias",
+      "enlace": "https://es-us.noticias.yahoo.com/s-p-500-cae-3-221506553.html"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-cerro-con-fuertes-caidas-por-las-preocupaciones-sobre-la-ia-el-nasdaq-tuvo-su-peor-semana-desde-la-pandemia/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

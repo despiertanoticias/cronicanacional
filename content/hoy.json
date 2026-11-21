@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:50 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,17 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.03",
-      "detalle": "Jueves 19, cierre de Banxico (19.0270): el peso pierde 1.32% y el dólar supera los 19 pesos por primera vez desde junio de 2025",
+      "valor": "$19.16",
+      "detalle": "Viernes 20, cierre de Banxico (19.1631): el peso pierde 0.24% en el día y 3.40% en la semana",
       "tendencia": "sube",
-      "nota": "2026-11-19-el-dolar-rebasa-los-19-pesos-por-primera-vez-desde-junio-de-2025-el-pe"
+      "nota": "2026-11-20-el-peso-cierra-en-19-16-por-dolar-y-encadena-su-peor-semana-desde-2024"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.98 USD",
-      "detalle": "Cierre del jueves 19: +0.03%; WTI de diciembre en 83.21 dólares (-0.06%)",
-      "tendencia": "igual",
-      "nota": "2026-11-19-el-brent-cierra-casi-sin-cambios-en-91-98-dolares-el-wti-de-diciembre"
+      "valor": "92.57 USD",
+      "detalle": "Cierre del viernes 20: +0.64%; WTI de diciembre en 83.98 dólares (+0.93%); tres semanas de pérdidas",
+      "tendencia": "sube",
+      "nota": "2026-11-20-el-brent-sube-0-64-y-cierra-en-92-57-dolares-pero-el-petroleo-suma-tre"
+    },
+    {
+      "nombre": "Bolsa (S&P/BMV IPC)",
+      "valor": "68,629",
+      "detalle": "Viernes 20: -0.12% en el día y -3.62% en la semana, su peor caída semanal desde agosto",
+      "tendencia": "baja",
+      "nota": "2026-11-20-la-bolsa-mexicana-pierde-3-62-en-la-semana-su-peor-caida-desde-agosto"
     },
     {
       "nombre": "Actividad económica",
@@ -29,13 +36,6 @@
       "detalle": "Estimación oportuna del INEGI para octubre: +0.2% mensual; septiembre se revisó a -0.7% mensual (3.1% anual)",
       "tendencia": "baja",
       "nota": "2026-11-20-inegi-anticipa-que-la-economia-crecio-2-3-anual-en-octubre-corrige-sep"
-    },
-    {
-      "nombre": "Inflación anual",
-      "valor": "3.75%",
-      "detalle": "INEGI, octubre 2026: +0.65% mensual; subyacente 3.80%",
-      "tendencia": "sube",
-      "nota": "2026-11-09-inflacion-sube-a-3-75-anual-en-octubre-su-tercer-mes-al-alza-tomate-ve"
     }
   ]
 }
