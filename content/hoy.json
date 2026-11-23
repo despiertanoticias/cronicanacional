@@ -1,6 +1,6 @@
 {
-  "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Lunes 23 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$19.16",
-      "detalle": "Viernes 20, cierre de Banxico (19.1631): el peso pierde 0.24% en el día y 3.40% en la semana",
+      "detalle": "Viernes 20, cierre de Banxico (19.1631), -3.40% semanal para el peso; el lunes 23 cotizaba temprano en 19.18",
       "tendencia": "sube",
       "nota": "2026-11-20-el-peso-cierra-en-19-16-por-dolar-y-encadena-su-peor-semana-desde-2024"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.57 USD",
-      "detalle": "Cierre del viernes 20: +0.64%; WTI de diciembre en 83.98 dólares (+0.93%); tres semanas de pérdidas",
-      "tendencia": "sube",
-      "nota": "2026-11-20-el-brent-sube-0-64-y-cierra-en-92-57-dolares-pero-el-petroleo-suma-tre"
+      "valor": "92.10 USD",
+      "detalle": "Lunes 23, 07:38 GMT: -0.51%; WTI en 82.98 dólares (-0.52%). La OPEP+ se reúne el 29 de noviembre",
+      "tendencia": "baja",
+      "nota": "2026-11-23-el-brent-baja-a-92-10-dolares-pese-a-ataques-en-el-golfo-la-opep-se-re"
     },
     {
       "nombre": "Bolsa (S&P/BMV IPC)",
