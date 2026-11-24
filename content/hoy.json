@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:35 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.16",
-      "detalle": "Viernes 20, cierre de Banxico (19.1631), -3.40% semanal para el peso; el lunes 23 cotizaba temprano en 19.18",
+      "valor": "$19.17",
+      "detalle": "Lunes 23, cierre de Banxico (19.1700) frente a 19.1631 del viernes; FIX de 19.1648",
       "tendencia": "sube",
-      "nota": "2026-11-20-el-peso-cierra-en-19-16-por-dolar-y-encadena-su-peor-semana-desde-2024"
+      "nota": "2026-11-23-la-bmv-gana-1-1-y-el-nasdaq-6-51-por-el-rebote-tecnologico-el-peso-cie"
     },
     {
-      "nombre": "Petróleo Brent",
-      "valor": "92.10 USD",
-      "detalle": "Lunes 23, 07:38 GMT: -0.51%; WTI en 82.98 dólares (-0.52%). La OPEP+ se reúne el 29 de noviembre",
+      "nombre": "Petróleo WTI",
+      "valor": "81.64 USD",
+      "detalle": "Lunes 23, contrato de enero: -2.12% en el día, -3.37% en la semana y -20.96% en el mes",
       "tendencia": "baja",
-      "nota": "2026-11-23-el-brent-baja-a-92-10-dolares-pese-a-ataques-en-el-golfo-la-opep-se-re"
+      "nota": "2026-11-23-el-petroleo-wti-cae-2-12-y-cierra-en-81-64-dolares-acumula-una-baja-de"
     },
     {
       "nombre": "Bolsa (S&P/BMV IPC)",
-      "valor": "68,629",
-      "detalle": "Viernes 20: -0.12% en el día y -3.62% en la semana, su peor caída semanal desde agosto",
-      "tendencia": "baja",
-      "nota": "2026-11-20-la-bolsa-mexicana-pierde-3-62-en-la-semana-su-peor-caida-desde-agosto"
+      "valor": "+1.1%",
+      "detalle": "Lunes 23: cerró arriba de 69,000 puntos, impulsada por el rebote de Nvidia; el Nasdaq ganó 6.51%",
+      "tendencia": "sube",
+      "nota": "2026-11-23-la-bmv-gana-1-1-y-el-nasdaq-6-51-por-el-rebote-tecnologico-el-peso-cie"
     },
     {
       "nombre": "Actividad económica",
