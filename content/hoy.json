@@ -1,6 +1,6 @@
 {
-  "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "18:35 h",
+  "fecha": "Martes 24 de noviembre de 2026",
+  "actualizado": "06:43 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -12,9 +12,9 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$19.17",
-      "detalle": "Lunes 23, cierre de Banxico (19.1700) frente a 19.1631 del viernes; FIX de 19.1648",
+      "detalle": "Lunes 23, cierre de Banxico (19.1700); el martes abrió en 19.29 según Dow Jones",
       "tendencia": "sube",
-      "nota": "2026-11-23-la-bmv-gana-1-1-y-el-nasdaq-6-51-por-el-rebote-tecnologico-el-peso-cie"
+      "nota": "2026-11-24-el-dolar-abre-en-19-29-pesos-acumula-un-alza-de-4-74-en-la-semana"
     },
     {
       "nombre": "Petróleo WTI",
@@ -31,11 +31,11 @@
       "nota": "2026-11-23-la-bmv-gana-1-1-y-el-nasdaq-6-51-por-el-rebote-tecnologico-el-peso-cie"
     },
     {
-      "nombre": "Actividad económica",
-      "valor": "2.3%",
-      "detalle": "Estimación oportuna del INEGI para octubre: +0.2% mensual; septiembre se revisó a -0.7% mensual (3.1% anual)",
-      "tendencia": "baja",
-      "nota": "2026-11-20-inegi-anticipa-que-la-economia-crecio-2-3-anual-en-octubre-corrige-sep"
+      "nombre": "PIB 3T (anual)",
+      "valor": "3.3%",
+      "detalle": "Cifra revisada del INEGI: +0.9% trimestral; mayor avance anual desde el 2T de 2023",
+      "tendencia": "sube",
+      "nota": "2026-11-24-el-pib-de-mexico-crecio-3-3-anual-en-el-tercer-trimestre-su-mayor-avan"
     }
   ]
 }
