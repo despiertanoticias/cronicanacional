@@ -1,6 +1,6 @@
 {
-  "fecha": "Martes 24 de noviembre de 2026",
-  "actualizado": "06:43 h",
+  "fecha": "Jueves 26 de noviembre de 2026",
+  "actualizado": "06:35 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,31 +11,30 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.17",
-      "detalle": "Lunes 23, cierre de Banxico (19.1700); el martes abrió en 19.29 según Dow Jones",
+      "valor": "$19.59",
+      "detalle": "Miércoles 25, cierre de Banxico (19.5948): +0.88% y sexta sesión de pérdidas del peso; en ventanilla rebasó 20 pesos",
       "tendencia": "sube",
-      "nota": "2026-11-24-el-dolar-abre-en-19-29-pesos-acumula-un-alza-de-4-74-en-la-semana"
+      "nota": "2026-11-26-el-peso-suma-seis-sesiones-de-perdidas-y-cierra-en-19-59-por-dolar-su"
     },
     {
       "nombre": "Petróleo WTI",
-      "valor": "81.64 USD",
-      "detalle": "Lunes 23, contrato de enero: -2.12% en el día, -3.37% en la semana y -20.96% en el mes",
-      "tendencia": "baja",
-      "nota": "2026-11-23-el-petroleo-wti-cae-2-12-y-cierra-en-81-64-dolares-acumula-una-baja-de"
+      "valor": "83.76 USD",
+      "detalle": "Miércoles 25: +2.08% según El Financiero; el Brent subió 2.67% a 93.84 dólares, tras el ataque hutí que incendió la refinería saudí de Ras Tanura",
+      "tendencia": "sube",
+      "nota": "2026-11-26-los-huties-atacan-riad-y-amenazan-puertos-saudies-arde-la-refineria-de"
     },
     {
       "nombre": "Bolsa (S&P/BMV IPC)",
-      "valor": "+1.1%",
-      "detalle": "Lunes 23: cerró arriba de 69,000 puntos, impulsada por el rebote de Nvidia; el Nasdaq ganó 6.51%",
-      "tendencia": "sube",
-      "nota": "2026-11-23-la-bmv-gana-1-1-y-el-nasdaq-6-51-por-el-rebote-tecnologico-el-peso-cie"
+      "valor": "+0.05%",
+      "detalle": "Miércoles 25: 69,334 puntos según El Financiero, mientras el Nasdaq retrocedió por la cautela sobre empresas de inteligencia artificial",
+      "tendencia": "sube"
     },
     {
-      "nombre": "PIB 3T (anual)",
-      "valor": "3.3%",
-      "detalle": "Cifra revisada del INEGI: +0.9% trimestral; mayor avance anual desde el 2T de 2023",
+      "nombre": "Inflación 1a quincena nov.",
+      "valor": "3.96%",
+      "detalle": "INEGI: +0.54% quincenal; la no subyacente subió 2.72% por electricidad, frutas y verduras",
       "tendencia": "sube",
-      "nota": "2026-11-24-el-pib-de-mexico-crecio-3-3-anual-en-el-tercer-trimestre-su-mayor-avan"
+      "nota": "2026-11-26-la-inflacion-sube-a-3-96-en-la-primera-quincena-de-noviembre-por-elect"
     }
   ]
 }
