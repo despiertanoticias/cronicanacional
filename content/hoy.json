@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "06:35 h",
+  "actualizado": "18:33 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,30 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.59",
-      "detalle": "Miércoles 25, cierre de Banxico (19.5948): +0.88% y sexta sesión de pérdidas del peso; en ventanilla rebasó 20 pesos",
+      "valor": "$19.72",
+      "detalle": "Jueves 26, cierre de Banxico (19.7214): +0.65% y séptima sesión de pérdidas del peso, su nivel más débil desde abril de 2025",
       "tendencia": "sube",
-      "nota": "2026-11-26-el-peso-suma-seis-sesiones-de-perdidas-y-cierra-en-19-59-por-dolar-su"
+      "nota": "2026-11-26-el-peso-liga-siete-caidas-y-cierra-en-19-72-por-dolar-su-nivel-mas-deb"
     },
     {
-      "nombre": "Petróleo WTI",
-      "valor": "83.76 USD",
-      "detalle": "Miércoles 25: +2.08% según El Financiero; el Brent subió 2.67% a 93.84 dólares, tras el ataque hutí que incendió la refinería saudí de Ras Tanura",
+      "nombre": "Petróleo Brent",
+      "valor": "96.53 USD",
+      "detalle": "Jueves 26: +2.02% (WTI +1.42% a 84.87 dólares) tras el ataque a la refinería saudí de Jazán y reportes de buques alcanzados en Ormuz",
       "tendencia": "sube",
-      "nota": "2026-11-26-los-huties-atacan-riad-y-amenazan-puertos-saudies-arde-la-refineria-de"
+      "nota": "2026-11-26-ataque-contra-la-refineria-saudi-de-jazan-deja-un-trabajador-muerto-y"
     },
     {
       "nombre": "Bolsa (S&P/BMV IPC)",
-      "valor": "+0.05%",
-      "detalle": "Miércoles 25: 69,334 puntos según El Financiero, mientras el Nasdaq retrocedió por la cautela sobre empresas de inteligencia artificial",
-      "tendencia": "sube"
+      "valor": "-1.43%",
+      "detalle": "Jueves 26: 70,353.18 puntos por toma de utilidades; Wall Street cerró por Acción de Gracias",
+      "tendencia": "baja",
+      "nota": "2026-11-26-la-bmv-cae-1-43-por-toma-de-utilidades-wall-street-cierra-por-accion-d"
     },
     {
-      "nombre": "Inflación 1a quincena nov.",
-      "valor": "3.96%",
-      "detalle": "INEGI: +0.54% quincenal; la no subyacente subió 2.72% por electricidad, frutas y verduras",
+      "nombre": "PIB 2026 (Banxico)",
+      "valor": "1.9%",
+      "detalle": "Informe trimestral: Banxico eleva su pronóstico desde 1.5%, con rango de 1.7% a 2.1%",
       "tendencia": "sube",
-      "nota": "2026-11-26-la-inflacion-sube-a-3-96-en-la-primera-quincena-de-noviembre-por-elect"
+      "nota": "2026-11-26-banxico-eleva-a-1-9-su-pronostico-de-crecimiento-para-2026-y-advierte"
     }
   ]
 }
