@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:55 h",
   "dato": {
     "cifra": "25.9%",
     "texto": "de las empresas del país fue víctima de algún delito en 2025; la cifra negra llegó a 91.8%.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.72",
-      "detalle": "Jueves 26, cierre de Banxico (19.7214): +0.65% y séptima sesión de pérdidas del peso, su nivel más débil desde abril de 2025",
-      "tendencia": "sube",
-      "nota": "2026-11-26-el-peso-liga-siete-caidas-y-cierra-en-19-72-por-dolar-su-nivel-mas-deb"
+      "valor": "$19.67",
+      "detalle": "Viernes 27, cierre de Banxico (19.6726): el peso gana 0.25% y corta siete sesiones de pérdidas; FIX en 19.6598",
+      "tendencia": "baja",
+      "nota": "2026-11-27-el-peso-corta-su-racha-de-perdidas-y-cierra-en-19-67-por-dolar-aunque"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "96.53 USD",
-      "detalle": "Jueves 26: +2.02% (WTI +1.42% a 84.87 dólares) tras el ataque a la refinería saudí de Jazán y reportes de buques alcanzados en Ormuz",
-      "tendencia": "sube",
-      "nota": "2026-11-26-ataque-contra-la-refineria-saudi-de-jazan-deja-un-trabajador-muerto-y"
+      "valor": "95.44 USD",
+      "detalle": "Viernes 27: -1.2% (WTI -0.7% a 83.08 dólares), pero cerca de +3% en la semana; la OPEP+ se reúne el domingo 29",
+      "tendencia": "baja",
+      "nota": "2026-11-27-el-brent-cae-1-2-a-95-44-dolares-pero-suma-su-primera-alza-semanal-del"
     },
     {
       "nombre": "Bolsa (S&P/BMV IPC)",
-      "valor": "-1.43%",
-      "detalle": "Jueves 26: 70,353.18 puntos por toma de utilidades; Wall Street cerró por Acción de Gracias",
-      "tendencia": "baja",
-      "nota": "2026-11-26-la-bmv-cae-1-43-por-toma-de-utilidades-wall-street-cierra-por-accion-d"
+      "valor": "+1.85%",
+      "detalle": "Viernes 27: 71,657.88 puntos; en Wall Street el Nasdaq sube 2.31% y el S&P 500 1.60%",
+      "tendencia": "sube",
+      "nota": "2026-11-27-la-bmv-sube-1-85-y-wall-street-cierra-con-ganancias-semanales-en-una-j"
     },
     {
-      "nombre": "PIB 2026 (Banxico)",
-      "valor": "1.9%",
-      "detalle": "Informe trimestral: Banxico eleva su pronóstico desde 1.5%, con rango de 1.7% a 2.1%",
+      "nombre": "Desocupación (octubre)",
+      "valor": "3.0%",
+      "detalle": "INEGI, ENOE: 1.86 millones de desocupados, frente a 2.6% un año antes; informalidad en 55.7%",
       "tendencia": "sube",
-      "nota": "2026-11-26-banxico-eleva-a-1-9-su-pronostico-de-crecimiento-para-2026-y-advierte"
+      "nota": "2026-11-27-el-desempleo-sube-a-3-en-octubre-hay-1-86-millones-de-personas-desocup"
     }
   ]
 }
